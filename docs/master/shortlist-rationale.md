@@ -322,20 +322,27 @@ Excellent neuroscience/medicine brands, but substantially more biology-heavy tha
 
 Decision: **fit penalty or execution penalty, not programme-quality judgment**.
 
-## 12. Deferred rather than rejected
+## 12. Australia - now a serious 2028 branch
 
-### Australia
-- UNSW MPhil BME;
-- Monash Engineering Science Research;
-- UNSW Engineering Science BME;
-- Melbourne MPhil (high-risk eligibility).
+Australia was previously treated mainly as a biomedical-engineering fallback. That is too narrow after the research-identity correction.
 
-Why deferred:
-- Australia Awards 2027 is closed;
-- 2028 can be attractive financially;
-- scholarship requires return to Vietnam for at least two years, which must be scored as a career constraint.
+Australia Awards is unusually important because it can cover full tuition, living support, travel, OSHC and research-related support for a Master's of up to two years. The 2027 round is closed; 2028 terms are not yet published and must be refreshed when the next call opens.
 
-Decision: **separate 2028 portfolio**.
+Current high-value Australia routes now include two distinct subtracks:
+
+**Systems / biomedical engineering**
+- UNSW MPhil Engineering - Biomedical Engineering;
+- Monash Master of Engineering Science (Research);
+- UNSW Master of Engineering Science - Biomedical Engineering.
+
+**Computational genetics / genomics**
+- UQ Master of Bioinformatics (Research Extensive);
+- Monash Master of Bioinformatics - Research Stream;
+- UNSW MPhil BME with Digital Medicine & Digital Biology / computational genomics direction.
+
+The Australia Awards two-year return-to-Vietnam rule remains a real career constraint. It can nevertheless become strategically coherent if the post-study plan is framed around building computational genomics / biomedical-data infrastructure, open scientific software and translational R&D in Vietnam.
+
+Decision: **build a separate 2028 Australia portfolio rather than treating Australia as a backup country.**
 
 ## 13. Not actionable / data hygiene
 
@@ -362,16 +369,9 @@ strong formal eligibility
 + research-degree structure
 + strong funding
 + low residual cost
-+ direct continuity from Mechatronics -> EEG -> Earable -> Research Engineer
++ direct continuity from Mechatronics -> quantitative biological evidence -> Research Engineer
 ```
 
-Current core:
-- CUHK BME MPhil
-- HKU ECE MPhil
-- HKUST ECE MPhil
-- NUS ECE MEng Research
-- NTU EEE MEng Research
-- KAIST Bio & Brain MS
-- POSTECH EE MS
+The current neuro/sensing core remains useful, but it is **not yet the final cross-domain core** because PI-level auditing has so far been much deeper for neurotechnology than for computational genetics/genomics.
 
-The core should change if new evidence changes one of those dimensions. It is a working decision frontier, not a permanent prestige list.
+The next step is to build a parallel computational-genomics supervisor/programme frontier and then recombine both branches.
