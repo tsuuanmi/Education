@@ -198,6 +198,7 @@ Search globally where the research model is strong.
 - [x] Promote the expanded universe after Gate 1 closes
 - [~] Re-run Gate 2 funding feasibility
 - [~] Run Profile Differentiation Gate
+  - [x] Profile Amplification Frontier deep audit (19 Very-high routes)
 - [ ] Cross-domain PI/lab audit
 - [ ] Final application portfolio
 
@@ -224,3 +225,9 @@ Broad Discovery Phase 2.0 is frozen.
 - Expanded Gate 2 is now open and starts from the **103 Likely** routes.
 
 Do not resume broad search by default.
+
+### Current cross-domain frontier
+
+See [Profile Amplification Frontier](amplification-frontier.md).
+
+The current P0 research frontier is UNIST BME, HKUST Bioengineering/Biological Information Engineering, University of Toronto BME MASc, KAIST Bio & Brain, KAUST Bioengineering/Bioinformatics & ML, and NAIST Computational Biology, with UNSW MPhil BME retained as the primary Australia-2028 research branch.
