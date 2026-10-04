@@ -926,3 +926,59 @@ Profile Differentiation + research / PI fit
 ```
 
 This preserves the "expand first, filter later" principle while preventing discovery from becoming an unbounded list of near-duplicate programmes.
+
+
+## Wave 10 - Africa and Latin America geographic-completeness sweep
+
+This final geographic sweep only adds programmes with genuinely relevant architecture.
+
+### University of Cape Town - MSc Computational Health Informatics
+
+UCT's two-year CHIP Master's explicitly accepts engineering alongside CS, statistics, biology, genetics, epidemiology and bioinformatics.
+
+Training includes:
+- Python for bioinformatics;
+- omics data mining;
+- machine learning and biomedical data science;
+- population genomics;
+- computational phylogenetics;
+- biomedical and health informatics;
+- a second-year research project.
+
+This is a strong example of a mixed-background healthcare-data programme. Its main weakness for this applicant is finance: international funding is not structurally tied to admission.
+
+### University of Cape Town - MSc Biomedical Engineering
+
+UCT BME is the complementary engineering-first route. A four-year Engineering degree is explicitly sufficient for entry, and the two-year degree is dissertation-based with preparatory coursework.
+
+Current research includes brain imaging, medical-device design, rehabilitation and health innovation. Its value depends more heavily on selecting a computational/data-oriented supervisor than CHIP does.
+
+### University of São Paulo - Bioengineering MSc / Health Technology
+
+USP's inter-unit Bioengineering programme has a Health Technology research line whose Clinical Engineering and Health Informatics work explicitly covers:
+- medical images;
+- biological signals;
+- information systems;
+- healthcare management;
+- computational biology;
+- bioinformatics.
+
+This makes it a rare Latin-American example of exactly the cross-modality systems architecture being searched for.
+
+For 2027 the programme has an active Master's selection process. CAPES-funded scholarships are allocated after enrolment through an internal selection subject to available quotas. Language, international eligibility and net cost require later audit.
+
+## Discovery search is now geographically complete enough to freeze
+
+The staging universe now covers distinctive programme architectures across:
+
+- Europe and UK/Ireland;
+- Canada and selected US programmes;
+- Australia and New Zealand;
+- East/Southeast Asia;
+- Gulf and Israel;
+- Africa;
+- Latin America.
+
+Further broad search is now more likely to add near-duplicates than a genuinely new programme architecture.
+
+The next work should therefore be data consolidation and gating, not another unlimited search wave.
