@@ -77,3 +77,10 @@ Do not continue PI outreach, application preparation or testing specifically for
 5. KAUST Bioengineering - PI deep audit
 6. Imperial / KU Leuven / TU Graz - thesis/research-environment audit
 7. UNSW / UQ / Monash - 2028 research and scholarship preparation
+
+
+## Active PI deep audit
+
+The active programme frontier has now been audited at PI/lab level. See `docs/master/active-pi-deep-audit.md` and `data/master/active-pi-deep-audit.csv`.
+
+Current Tier-A PI frontier: Hao Chen (HKUST), Cheow Lih Feng (NUS), Yueming Jin (NUS), Daniel Franklin (Toronto), Bihan Wen (NTU), Jiguang Wang (HKUST), and Xin Gao (KAUST, environment-conditional).
