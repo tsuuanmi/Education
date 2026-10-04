@@ -260,3 +260,23 @@ Korea and Japan remain academically evaluated in the canonical universe but are 
 ### Tier-A outreach preparation
 
 See [Tier-A PI Outreach Briefs](tier-a-outreach-briefs.md). The briefs convert PI fit into applicant-specific research questions and define what new methodological depth each lab would add.
+
+
+### Application execution package
+
+The first PI-contact tranche is now defined in [First PI Contact Tranche](contact-tranche-1.md):
+
+1. Hao Chen - HKUST
+2. Cheow Lih Feng - NUS BME
+3. Bihan Wen - NTU EEE
+4. Daniel Franklin - University of Toronto BME
+
+Only one PI per institution is used in the first wave; Yueming Jin, Jiguang Wang, Sunwoo Lee and Azadeh Kushki are retained as institution-level fallbacks.
+
+Reusable application materials:
+
+- [Core Research-Interest Note](research-interest-core.md)
+- [Research CV Specification](research-cv-spec.md)
+- `data/master/contact-tranche-1.csv`
+
+The first-contact objective is information gain about supervision/project fit, not an admission promise.
