@@ -182,18 +182,19 @@ Search globally where the research model is strong.
 - [x] Reframe applicant identity around systems-oriented computational/dry-lab biological research engineering
 - [x] Accept 2028 as a first-class start year
 - [x] Reframe return-home obligations contextually
-- [~] Global programme discovery: computational biology / bioinformatics
-- [~] Global programme discovery: systems / quantitative biology
-- [~] Global programme discovery: biomedical / health data science
-- [~] Research degrees in CS/ECE/BME with biological-data labs
-- [~] Australia 2028 discovery
-- [~] Canada funded research-Master discovery
-- [ ] Dedicated UK + scholarship discovery
-- [ ] Dedicated continental-Europe funding discovery
-- [ ] Dedicated Asia funding discovery under broadened scope
-- [ ] Discovery completeness review
-- [ ] Promote staging candidates into canonical opportunity universe
-- [ ] Re-run Gate 1 on expanded universe
+- [x] Global programme discovery: computational biology / bioinformatics
+- [x] Global programme discovery: systems / quantitative biology
+- [x] Global programme discovery: biomedical / health data science
+- [x] Research degrees in CS/ECE/BME with biological-data labs
+- [x] Australia 2028 discovery
+- [x] Canada funded research-Master discovery
+- [x] Dedicated UK discovery
+- [x] Dedicated continental-Europe discovery
+- [x] Dedicated Asia discovery under broadened scope
+- [x] Discovery completeness review
+- [x] Deduplicate and assign stable promotion IDs
+- [~] Re-run Gate 1 on expanded universe
+- [ ] Promote the expanded universe atomically after Gate 1 closes
 - [ ] Re-run Gate 2 funding feasibility
 - [ ] Cross-domain PI/lab audit
 - [ ] Final application portfolio
@@ -206,3 +207,16 @@ Search globally where the research model is strong.
 - **TBA**: next-cycle detail is not yet published
 - **closed**: relevant cycle is no longer actionable
 - **unlikely**: known hard prerequisite mismatch or finance problem after gating
+
+
+## Current phase checkpoint - 2026-10-04
+
+Broad Discovery Phase 2.0 is frozen.
+
+- 95 staging records discovered.
+- 8 merge/reframe into existing degrees.
+- 87 genuinely new/replacement application routes.
+- 165 application-distinct records in the working expanded-universe draft.
+- Expanded Gate 1 currently has 58 Likely, 22 Conditional-high-risk, and 7 Unlikely among the 87 new/replacement routes.
+
+Canonical files remain unchanged until the expanded Gate-1 audit closes.
