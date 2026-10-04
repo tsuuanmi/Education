@@ -19,14 +19,20 @@ biological system
 
 BCI / neurotechnology is the current preferred application domain, while genomics remains an important second domain and source of research experience.
 
-## Decision process
+## Search philosophy
 
-We do **not** shortlist early.
+The search is **degree-title agnostic**.
+
+A programme does not need to be called Biomedical Engineering. Electrical Engineering, Signals & Systems, Control, Robotics, Medical Engineering, Life Sciences Engineering, or a research degree can all be stronger options if they develop the right methodological core and allow relevant biological / health research.
+
+We search broadly first and filter only after the opportunity universe is large enough.
+
+## Decision process
 
 1. Build the broadest realistic opportunity universe.
 2. Gate 1: formal eligibility and prerequisites.
 3. Gate 2: financial feasibility and net personal cost.
-4. Gate 3: scholarship / bond / career constraints.
+4. Gate 3: scholarship / bond / immigration / career constraints.
 5. Gate 4: research and career fit.
 6. Prestige is only a tie-breaker.
 
