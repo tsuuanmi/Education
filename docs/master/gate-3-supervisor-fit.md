@@ -232,14 +232,10 @@ The core narrative should change by lab:
 - **biosensor/diagnostic labs**: sensors + GeneStory -> measurement systems connecting physical and molecular evidence;
 - **imaging labs**: instrumentation + AI/software -> acquisition-to-inference biomedical systems.
 
-## Next step
+## Primary-PI deep audit completed
 
-Before sending outreach, perform one more narrow pass on the **first-choice PI in each programme**:
+The first-choice PI pass is complete in `docs/master/pi-outreach-briefs.md`. It verifies recent/current directions, applicant evidence hooks, concrete research questions, and available capacity signals.
 
-- 2-3 recent 2025-2026 papers/projects;
-- what problem the lab is currently moving toward;
-- what part of the applicant's evidence is genuinely useful;
-- one non-generic research question for the email;
-- whether the PI/lab explicitly advertises MS openings or has current capacity signals.
+The first-contact drafts are in `docs/master/pi-outreach-drafts.md`.
 
-Then create the seven personalized outreach drafts.
+Important correction discovered during this pass: Jerald Yoo moved from NUS to Seoul National University in 2024. The current NUS ICES research-area page still exposes his older NUS profile, so current faculty availability must be verified from individual staff pages before outreach.
