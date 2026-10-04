@@ -169,3 +169,38 @@ Life-science-credit programmes
 ```
 
 This reinforces the degree-title-agnostic search strategy: a methods-first engineering Master's can be both a better intellectual fit and a cleaner formal-admission route than a programme literally named Biomedical Engineering.
+
+
+## Full-universe Gate 1 status
+
+The eligibility table now covers **76 tracked opportunities**, including explicit duplicate/superseded and non-actionable records.
+
+Current status counts:
+
+- **Likely**: 28
+- **Conditional-likely**: 23
+- **Conditional-high-risk**: 13
+- **Superseded**: 4
+- **Unlikely**: 3
+- **Conditional**: 2
+- **Unknown**: 2
+- **Not-actionable**: 1
+
+### Interpretation
+
+- **Likely** means no published hard prerequisite mismatch is visible from the current transcript/profile.
+- **Conditional-likely** means the route is plausible but needs a formal equivalence check (credits, honours, language, supervisor, or central-admissions mapping).
+- **Conditional-high-risk** means a real published requirement could block direct admission or force substantial bridging.
+- **Unlikely** means a hard prerequisite appears absent from the transcript.
+- **Not-actionable** means the programme is not open for the target 2027 entry cycle.
+- **Superseded** marks duplicate/legacy tracking rows and excludes them from later scoring.
+- **Unknown** is deliberately retained when official programme-level admission requirements are still insufficiently verified.
+
+### Gate 1 policy from this point
+
+The next pass should not expand the universe unless a genuinely new high-value opportunity appears. Research should focus on converting:
+- Unknown -> a defensible status;
+- Conditional-likely -> confirmed likely or high-risk;
+- Conditional-high-risk -> apply/drop decision.
+
+Only after that should Gate 2 financial modelling begin.
