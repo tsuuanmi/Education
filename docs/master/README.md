@@ -199,7 +199,7 @@ Search globally where the research model is strong.
 - [~] Re-run Gate 2 funding feasibility
 - [~] Run Profile Differentiation Gate
   - [x] Profile Amplification Frontier deep audit (19 Very-high routes)
-- [ ] Cross-domain PI/lab audit
+- [~] Cross-domain PI/lab audit
 - [ ] Final application portfolio
 
 ## Status labels
@@ -231,3 +231,10 @@ Do not resume broad search by default.
 See [Profile Amplification Frontier](amplification-frontier.md).
 
 The current P0 research frontier is UNIST BME, HKUST Bioengineering/Biological Information Engineering, University of Toronto BME MASc, KAIST Bio & Brain, KAUST Bioengineering/Bioinformatics & ML, and NAIST Computational Biology, with UNSW MPhil BME retained as the primary Australia-2028 research branch.
+
+
+### Programme fit specification
+
+See [Programme Fit Specification](program-fit-spec.md).
+
+Core rule: **Engineering as the foundation; biological systems as the application domain; computation and modelling as the transferable core; research as the mode of learning.**
