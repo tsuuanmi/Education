@@ -629,3 +629,53 @@ A broad **Biomedical Engineering research degree can be a better health-data-sys
 - and lets domain knowledge be learned through collaboration.
 
 This is increasingly important for the applicant because the objective is not to abandon engineering for data science. It is to use engineering as the systems layer for healthcare data.
+
+
+## Wave 7 - additional Canadian research degrees
+
+Canada continues to produce an unusually large number of programmes where the applicant's mixed engineering/health-data background is structurally useful rather than anomalous.
+
+### University of Alberta - Biomedical Engineering MSc
+
+The thesis MSc is housed across Engineering and Medicine & Dentistry. Current research fields include bionics/biorobotics, biomedical imaging, biomechanics and precision-health design. Current faculty work also includes ML + quantitative MRI/CT + large-scale health-data analysis for precision diagnostics.
+
+This route is strategically stronger than a generic Data Science degree because the research identity remains biomedical engineering while computational health-data work is available.
+
+### uOttawa + Carleton - Biomedical Engineering MASc / Bioinformatics specialization
+
+The Ottawa-Carleton Institute combines:
+- Mechanical Engineering;
+- Electrical Engineering and Computer Science;
+- Systems and Computer Engineering;
+- Computer Science;
+- Physics.
+
+Its MASc can be taken with a formal Bioinformatics specialization, while the institute's research areas also include medical instrumentation, biomedical image processing, medical informatics and telemedicine.
+
+This is close to the ideal programme architecture: the applicant can use GeneStory and biological-data experience without losing the engineering/systems identity.
+
+Funding still needs a proper supervisor/department audit before financial conclusions.
+
+### Dalhousie - Biomedical Engineering MASc
+
+Dalhousie's structure illustrates another desirable conversion model. The programme provides biomedical foundations rather than assuming a full undergraduate BME background. Foundation coursework spans:
+- Life Science;
+- Signals & Detection;
+- Physiological Systems;
+- research methods / design controls.
+
+Students then move into thesis research in imaging, biosensing, neurophysiology, signal processing, devices and related areas.
+
+All graduate students receive funding. The current minimum guaranteed MASc take-home after tuition/fees is roughly CAD 16,000-17,000/year for years 1-2, which is useful but weaker than Toronto/Waterloo/McGill-style funding packages.
+
+## Canada discovery conclusion so far
+
+Canada is emerging as a particularly strong region for this profile because thesis Master's programmes often combine three desirable properties:
+
+```text
+Engineering is a valid starting identity
++ biological/medical context is learned through programme/lab
++ research students receive structural supervisor/department funding
+```
+
+This is exactly the Master's-as-amplifier model.
