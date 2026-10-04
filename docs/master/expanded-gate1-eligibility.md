@@ -29,9 +29,9 @@ Those belong to later gates.
 
 | Status | Count |
 | --- | ---: |
-| Likely | 53 |
-| Conditional-high-risk | 28 |
-| Unlikely | 6 |
+| Likely | 58 |
+| Conditional-high-risk | 22 |
+| Unlikely | 7 |
 | **Total** | **87** |
 
 This is a **first complete pass**, not yet the final closure of Expanded Gate 1.
@@ -122,3 +122,17 @@ Before closing Expanded Gate 1:
 5. confirm degree-class/GPA equivalence for Canada/Israel where thresholds are expressed in local systems.
 
 Only then should the expanded opportunity universe be promoted atomically into canonical `opportunities.csv` + `eligibility.csv`.
+
+
+## Conditional-resolution pass 1
+
+Official-source re-checks resolved several first-pass ambiguities:
+
+- **ETH CBB -> Likely:** engineering applicants are eligible; missing introductory material can be assigned as up to 30 ECTS additional requirements.
+- **UPF Bioinformatics for Health Sciences -> Likely:** engineering degrees are explicitly accepted.
+- **Imperial Biomedical Research (Data Science) -> Likely:** the stream explicitly targets numerate engineering/physical-science backgrounds.
+- **JHU BME MSE -> Likely:** engineering/basic-science degrees are standard entry backgrounds and curricular deficiencies can be remediated with additional courses.
+- **HKU Computing & Data Science MPhil -> Likely:** the published formal requirement is an honours-equivalent bachelor's degree; no CS-major prerequisite is stated.
+- **Trento Quantitative and Computational Biology -> Unlikely:** the current formal curriculum requires 12 ECTS biology and 6 ECTS chemistry that are not documented in the transcript.
+
+Gate 1 therefore now stands at **58 Likely / 22 Conditional-high-risk / 7 Unlikely** for the 87 Discovery-2.0 routes.
