@@ -253,3 +253,33 @@ degree title contains "bioinformatics" or "biomedical"
 ```
 
 SFU and McGill are especially useful examples of why this matters for career breadth.
+
+
+## Wave 3 - technical-degree-first biological research
+
+Wave 3 looked for programmes where the **degree identity itself remains technical** and biology enters through the thesis/research environment.
+
+**University of Alberta - MSc Computing Science**
+
+The thesis MSc is particularly relevant because departmental funding for full-time MSc students currently has a CAD 30,800 minimum, with an additional component for international tuition. The department accepts related-discipline applicants when their CS background is bridgeable. Current Computing Science faculty include active bioinformatics work on algorithms motivated by multi-omics, theoretical computational biology and omics.
+
+This route is strategically valuable even if it later fails Gate 1: it demonstrates the preferred architecture of a broad CS degree plus biological-systems research.
+
+**Monash - Master of Data Science, Research Stream**
+
+This is a different Australia archetype from the Master of Bioinformatics. The degree remains Data Science and can lead into a Master's thesis after strong in-course performance. Monash has computational-biology/bioinformatics researchers inside Data Science & AI.
+
+The trade-off is important: entry to the research stream is not guaranteed at initial admission, so the programme must later be evaluated as a conditional research route rather than assumed to provide a thesis automatically.
+
+### Search principle strengthened again
+
+The most career-portable programme may have a title such as:
+
+- Computing Science;
+- Computer Science;
+- Data Science;
+- Electrical / Computer Engineering;
+
+while the **thesis** is on genomics, physiological data, computational biology or another biological system.
+
+Discovery therefore continues to search both from the degree side and from the lab/research-area side.
