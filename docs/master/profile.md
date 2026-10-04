@@ -36,6 +36,10 @@ Deep-tech wearable neurotechnology work around human sleep, cognitive focus, phy
 
 Current R&D role in genomics, including public research outputs.
 
+Several years of GeneStory experience should be treated as a substantive application strength rather than a side note. It demonstrates sustained work with real biological data, domain learning, research execution, and translation into scientific/software outputs.
+
+This experience can support applications in computational biology, bioinformatics, biomedical data science, systems biology and related areas even when the degree is not genomics-specific.
+
 ### DNA
 
 Open-source scientific-software platform for DNA / Sanger analysis. Current design emphasis includes:
@@ -79,6 +83,28 @@ Measure / acquire evidence
 
 Prefer programmes where the applicant can remain engineering- and computation-first. Wet-lab-heavy molecular programmes are lower priority unless they provide a clean computational track and do not require formal life-science prerequisites that the transcript lacks.
 
+### Career breadth guardrail
+
+Do not lock the Master's into BCI, neuroscience, genetics, or genomics.
+
+A domain-specific programme is acceptable when its **methods remain portable**, for example through substantial training in:
+
+- statistical inference;
+- machine learning;
+- algorithms;
+- scientific programming / software engineering;
+- data systems / HPC;
+- modelling and simulation;
+- research methodology and validation.
+
+GeneStory should strengthen the application without forcing the post-Master career into genetics-only roles.
+
+## Timing and location flexibility
+
+A 2028 start is fully acceptable and may be preferable to 2027 when it creates materially better programme, funding, supervisor, or preparation options.
+
+Returning to Vietnam after graduation is acceptable when required by a strong scholarship. In particular, an Australia-related return period can be strategically compatible with the applicant's current company/network and can be used for research consolidation, scientific software, publications, and continued international collaboration.
+
 ## Finance
 
 Finance is a hard constraint.
@@ -90,4 +116,4 @@ Priority order:
 3. low-tuition programs with need-based or regional living support;
 4. partial scholarship only when residual cost is clearly manageable.
 
-Scholarships with mandatory return-home obligations must be evaluated as career constraints, not only as financial benefits.
+Scholarships with mandatory return-home obligations must be recorded explicitly, but they are not automatically negative. Evaluate whether the required return period can advance the Research Engineer trajectory.
