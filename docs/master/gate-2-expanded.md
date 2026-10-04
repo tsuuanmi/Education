@@ -16,8 +16,12 @@ A programme can guarantee a stipend yet still be financially difficult for an in
 
 | Gate-2 class | Count |
 | --- | ---: |
-| A - Structural funding | 19 |
-| B - Strong competitive full/near-full route | 45 |
+| A1 - Near-zero structural funding | 13 |
+| A2 - Structural funding with residual risk | 4 |
+| A3 - Structural package, amount unclear | 2 |
+| B1 - Full-package competitive | 23 |
+| B2 - Mixed / partial competitive funding | 19 |
+| B3 - Assistantship / funding uncertain | 3 |
 | C - Financially resilient / low tuition | 8 |
 | D - High cost / scholarship-dependent | 26 |
 | Deferred - Australia Awards 2028 | 10 |
@@ -189,3 +193,4 @@ Only after that should the 45 B routes receive an equivalent scholarship-probabi
 
 - `docs/master/gate-2-structural-audit.md` - splits structural funding into A1/A2/A3 based on residual-cost risk.
 - `docs/master/gate-2-australia-2028.md` - audits the Australia Awards 2028 branch using the current 2027 rules as a refreshable baseline.
+- `docs/master/gate-2-competitive-audit.md` - splits competitive funding into B1/B2/B3 based on package quality.
