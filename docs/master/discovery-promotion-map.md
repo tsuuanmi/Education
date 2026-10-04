@@ -1,6 +1,6 @@
 # Discovery Promotion Map
 
-This file assigns stable canonical IDs to Discovery Phase 2.0 records **without yet mutating the old 78-record canonical universe**.
+This file records the stable canonical IDs assigned to Discovery Phase 2.0 records. The promotion has now been completed.
 
 Why this intermediate step exists:
 
@@ -36,6 +36,10 @@ IDs are identifiers, not rankings.
 
 No shortlist semantics are encoded in the IDs.
 
-## Next operation
+## Promotion status
 
-Use `data/master/discovery-promotion-map.csv` together with the staging CSV to run the **expanded Gate 1**. Do not merge all new rows into the old canonical snapshot until formal-eligibility statuses have been assigned.
+**Completed.**
+
+The expanded Gate 1 was closed first, then 87 new/replacement routes were promoted into the canonical universe. Merge/reframe records retained their existing IDs, and the old generic Osaka placeholder was marked Superseded in favour of the concrete AS-JP-005 route.
+
+The canonical universe now has 165 unique opportunity IDs, mirrored exactly in `data/master/eligibility.csv`.
