@@ -333,3 +333,80 @@ or flatten it into a weaker version of a conventional CS / Bio / EE applicant?
 ```
 
 This gate should be evaluated before final application prioritisation.
+
+
+## Wave 4 - programme architectures that amplify the hybrid profile
+
+Wave 4 intentionally searched for programmes whose **institutional design** matches the applicant's cross-layer positioning.
+
+### Computational Bioengineering as a particularly strong family
+
+**Imperial - Biomedical Engineering (Computational Bioengineering)**
+
+This is one of the cleanest discoveries so far. Entry is explicitly open to Engineering, Physical Sciences and Mathematics. The programme applies mathematical and computational models to biological data inside a Bioengineering degree rather than asking the applicant to compete as a generic CS student.
+
+The current financial weakness is obvious: overseas Bioengineering tuition was about GBP 45,000 for 2026/27, so this is not automatically feasible without major external funding.
+
+**UIUC - MS Bioengineering, Computational and Systems Bioengineering**
+
+The research MS accepts engineering, CS and natural-science graduates, requires strong quantitative skills, includes thesis research, and allows RA/TA/fellowship support with tuition/service-fee waivers. This combination of positioning + research structure + possible funding makes it more strategically interesting than many high-cost professional US Master's programmes.
+
+**University of Kansas - MS Bioengineering, Computational Bioengineering**
+
+Another explicit computational-bioengineering concentration. Unlike KU's self-funded MEng, the research MS is eligible for RA/TA/fellowship support.
+
+### Information/Bioinformatic Engineering in Japan
+
+**University of Osaka - Bioinformatic Engineering**
+
+This programme may be one of the strongest conceptual matches in the entire discovery universe. Its stated educational model treats man-made and biological systems as networked information-processing systems and aims to produce engineers/researchers who analyse and synthesise living systems through information science and engineering.
+
+This is much closer to the applicant's desired identity than a conventional genetics programme.
+
+**University of Tsukuba - Life Science Innovation (Bioinformatics)**
+
+The programme is cross-graduate-school and the Bioinformatics Master's sits under Systems and Information Engineering. Admissions focus on research plan, English and adviser fit rather than a long published list of biology credits. It remains more life-science-specific than Osaka and therefore needs later positioning evaluation.
+
+### Biomedical / Health Data Science designed for mixed backgrounds
+
+**Clemson - Biomedical Data Science and Informatics**
+
+Explicitly accepts engineering, computing, mathematics, biology and public-health applicants. This is the type of programme where mixed background is structurally expected. The one-year biology prerequisite may still create a formal risk.
+
+**Taipei Medical University - Biomedical Informatics**
+
+The 2026 curriculum integrates geno-/phenotype big-data analysis, health IoT, telemedicine, clinical decision support and AI in medicine, with a Master's thesis. This is attractive because it spans biological data, physical sensing and healthcare systems rather than one modality.
+
+**Yuan Ze University - Biomedical Informatics**
+
+The programme is promoted by Computer Science & Engineering, shares CSE resources, integrates Information Management and Mechanical Engineering, and collaborates with hospitals. This is exactly the kind of institutional interdisciplinarity the positioning filter is intended to find.
+
+### Health Data Science without domain lock-in
+
+**URV/UPC-led Health Data Science**
+
+The current programme spans multiple Catalan universities plus Grenoble, is taught in English, and targets data from sensors, medical devices, clinical records and wearables. The predecessor curriculum explicitly included Biomedicine for Engineers, Scientific Programming, Biomedical Sensors & Signal Processing, and an 18-ECTS thesis.
+
+Its current public fee is unusually low compared with UK/US options, making it an important later funding/format audit despite being online.
+
+**QUT Master of Data Science - Biomedical Data Science**
+
+This is useful as a breadth-preserving Australia route because the degree remains Data Science and the two-year programme accepts a Bachelor in any discipline. It is not automatically a top fit; later profile-differentiation scoring must decide whether its interdisciplinarity is strong enough relative to UQ/UNSW/Monash.
+
+## Wave 4 lesson
+
+The strongest new search keyword is not simply "bioinformatics".
+
+It is the intersection of:
+
+```text
+Engineering / Information Systems / Data Systems
+                +
+Biological / Biomedical Data
+                +
+Research / Thesis / Project
+                +
+Interdisciplinary entry by design
+```
+
+Programmes that encode this structure institutionally are more promising than programmes where the applicant must explain why an unusual background belongs.
