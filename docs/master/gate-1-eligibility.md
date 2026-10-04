@@ -84,3 +84,88 @@ Continue Gate 1 with:
 5. Taiwan NTU BME/BEBI, NTHU, NYCU;
 6. Erasmus Mundus programmes;
 7. Australia research Masters.
+
+
+## Batch 2 - Finland / Switzerland / DTU
+
+### Oulu Biomedical Engineering
+
+**Status: Likely**
+
+Official 2027 programme criteria accept Bachelor's degrees in biomedical engineering, biophysics, physics, computer engineering, computer science, information technology, electrical engineering, control engineering, mechanical engineering, or other related fields.
+
+This makes Mechatronics structurally compatible. No hard prior biology or chemistry requirement is stated.
+
+### Tampere Biomedical Sciences and Engineering
+
+**Biomedical Micro- and Nanodevices: Likely**
+
+Mechatronics is explicitly named as an eligible related field. Mathematics and physics are required. Prior biology/BME is beneficial but not mandatory.
+
+**Biomedical Informatics: Conditional-likely**
+
+Engineering/technology backgrounds closely related to the field are accepted, but Mechatronics is not named directly. Programming, mathematics, physics, EEG-data work and genomics R&D strengthen the case.
+
+**Medical Physics and Biomedical Instrumentation: Conditional-likely**
+
+This specialization is now added to the opportunity universe because it is closely aligned with medical measurement, imaging, instrumentation and algorithm development. The main remaining question is whether the physics depth in the transcript is considered sufficient.
+
+### ETH Zurich Biomedical Engineering
+
+**Status: Conditional-high-risk**
+
+ETH BME accepts engineering/physics/mathematics backgrounds, but non-EU/EFTA Bachelor's holders must submit GRE.
+
+Current expected GRE scores:
+- Quantitative 165 / 90th percentile;
+- Verbal 155 / 70th percentile;
+- Analytical Writing 3.5 / 50th percentile.
+
+Mechatronics is not explicitly named on the page, so equivalence to a qualifying engineering discipline still matters. This remains a moonshot rather than a clean eligibility path.
+
+### EPFL Life Sciences Engineering
+
+**Status: Conditional-high-risk**
+
+EPFL explicitly requires both:
+- engineering skills in signal processing, systems, electronics, data science and machine learning;
+- basic life-science knowledge in cell and molecular biology comparable to BIO-105/BIO-109.
+
+The engineering half is strong for this profile. The formal cell/molecular biology requirement is the problem. Additional credits may be required, but the university does not say that professional genomics experience substitutes for those prerequisites.
+
+### DTU Biomedical Engineering
+
+**Status: Unlikely**
+
+This is now a clearer hard reject unless the transcript contains substantially more biomedical/life-science coursework than currently recorded.
+
+For international applicants, DTU requires at least 65 ECTS distributed across:
+- 15 ECTS mathematics;
+- 10 ECTS physics;
+- 5 ECTS chemistry;
+- 10 ECTS human physiology/anatomy/cell biology;
+- 5 ECTS programming;
+- 5 ECTS statistics;
+- 15 ECTS biomedical engineering.
+
+The profile likely satisfies math/programming/statistics and some physics, but not the chemistry, human-biology and 15-ECTS BME blocks.
+
+## Updated pattern
+
+The Gate-1 audit is producing three useful categories:
+
+```text
+Engineering-first programmes
+  -> often clean or conditionally clean
+  -> Aalto, Oulu, Tampere Micro/Nano, KTH Systems, Freiburg
+
+Formal BME-credit programmes
+  -> higher risk despite strong career fit
+  -> Chalmers, Twente, KU Leuven
+
+Life-science-credit programmes
+  -> highest risk
+  -> EPFL LSE, DTU BME, RWTH standalone BME
+```
+
+This reinforces the degree-title-agnostic search strategy: a methods-first engineering Master's can be both a better intellectual fit and a cleaner formal-admission route than a programme literally named Biomedical Engineering.
