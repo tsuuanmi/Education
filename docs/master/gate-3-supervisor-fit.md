@@ -1,6 +1,8 @@
 # Gate 3 - Supervisor and Lab Fit
 
-This pass evaluates the seven core research programmes at PI/lab level.
+This pass evaluates the first seven **neuro/sensing-oriented** core research programmes at PI/lab level.
+
+Scope correction: this is Phase A, not the final Gate 3. The applicant's target identity is systems-oriented dry-lab Research Engineering for biological systems, so a parallel Phase B must audit computational genetics/genomics, bioinformatics and biomedical-data labs before the final cross-domain core is frozen.
 
 The purpose is not to predict whether a professor will accept the applicant. It asks a narrower and more useful question:
 
@@ -239,3 +241,20 @@ The first-choice PI pass is complete in `docs/master/pi-outreach-briefs.md`. It 
 The first-contact drafts are in `docs/master/pi-outreach-drafts.md`.
 
 Important correction discovered during this pass: Jerald Yoo moved from NUS to Seoul National University in 2024. The current NUS ICES research-area page still exposes his older NUS profile, so current faculty availability must be verified from individual staff pages before outreach.
+
+
+## Scope expansion - computational genetics / genomics
+
+The supervisor ranking above is intentionally provisional.
+
+A second PI-density pass should now target programmes/labs where the dominant work is:
+
+- genome informatics;
+- statistical genetics;
+- computational genomics;
+- multi-omics integration;
+- biological data systems;
+- scientific software / reproducible pipelines;
+- systems biology with a dry-lab emphasis.
+
+The final ranking should compare **methods continuity**, not force all candidates onto a BCI axis.
