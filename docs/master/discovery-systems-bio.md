@@ -831,3 +831,98 @@ collaboration with domain experts
 Hokkaido, NAIST, Kyoto Systems Science, Kyutech and UNIST each instantiate that architecture differently.
 
 At this point the discovery universe is approaching **archetype saturation**: new searches increasingly return variants of programme structures already represented. One more coverage review should focus on missing geographies or clearly missing architectures rather than continuing to add near-duplicates indefinitely.
+
+
+## Wave 9 - final distinctive European architectures
+
+Wave 9 adds only programmes that represent a meaningfully different architecture from the existing staging universe.
+
+### Tübingen - Medical Informatics
+
+Tübingen's MSc is unusually close to the intended **healthcare-data systems engineer** role.
+
+Current curriculum includes:
+- Advanced Medical Informatics;
+- Advanced Bioinformatics;
+- Medical Data Science;
+- databases / data warehouses;
+- privacy-preserving record linkage;
+- federated learning;
+- genome privacy;
+- clinical decision support;
+- research project and thesis.
+
+The reason it is staged rather than automatically preferred is admission positioning. The programme is fundamentally medical-informatics/CS oriented. Applicants from medical-technology/biology-related or CS backgrounds may enter through different variants, and some non-comparable profiles require German. A later gate must determine whether Mechatronics is treated as a strength or as a large formal-CS gap.
+
+### Grenoble - BioHealth Engineering
+
+UGA's English BioHealth Engineering M1-M2 combines:
+- data-management technology;
+- scientific programming;
+- image processing;
+- data challenges;
+- innovative medical devices;
+- human-health big-data analysis;
+- biotechnology and diagnostics.
+
+It is deliberately multidisciplinary and offers projects/internships, but its biological/biotechnology content is heavier than the strongest engineering-first candidates.
+
+That makes it a useful boundary case for the future Profile Differentiation Gate: it may amplify the profile if the data/device path dominates, or flatten it toward life sciences if the selected curriculum becomes too biological.
+
+## Discovery completeness checkpoint
+
+After nine waves, the staging universe now covers all major programme architectures identified from the applicant positioning:
+
+1. **Computational Bioengineering**
+2. **Engineering-major Bioinformatics / Bioinformatic Engineering**
+3. **Biomedical / Health Data Science**
+4. **Medical / Biomedical Informatics**
+5. **Systems / Quantitative Biology for quantitative entrants**
+6. **Broad Biomedical Engineering with computational/data tracks**
+7. **Information / Systems Engineering applied to living systems**
+8. **Computing/Data thesis degrees with biological research labs**
+9. **Research Master's with structural funding and cross-modality biomedical labs**
+10. **Australia 2028 pathways compatible with Australia Awards**
+
+Geographic coverage now includes:
+- Nordics;
+- continental Europe;
+- UK/Ireland;
+- Canada and selected US research programmes;
+- Australia/New Zealand;
+- Singapore/Hong Kong/Taiwan;
+- Korea/Japan;
+- Gulf;
+- Israel.
+
+Search results are now showing increasing duplication of these same architectures rather than new categories.
+
+### Recommended transition
+
+Do **not** freeze a shortlist yet.
+
+Instead, the next phase should be:
+
+```text
+Discovery staging universe
+        |
+        v
+Deduplicate / merge with existing 78-record universe
+        |
+        v
+Coverage + data-quality audit
+        |
+        v
+Freeze Expanded Opportunity Universe
+        |
+        v
+Gate 1 - Formal eligibility
+        |
+        v
+Gate 2 - Funding / net cost
+        |
+        v
+Profile Differentiation + research / PI fit
+```
+
+This preserves the "expand first, filter later" principle while preventing discovery from becoming an unbounded list of near-duplicate programmes.
