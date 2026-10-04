@@ -416,3 +416,14 @@ recognises engineering/systems as an asset
 ```
 
 That is the distinguishing property of the new P0 frontier.
+
+
+## Environment-fit override
+
+Academic P0 status does not automatically imply application-core status.
+
+The applicant currently does not view Korea or Japan as personally suitable Master's environments. UNIST, KAIST and NAIST therefore remain academically strong reference routes but are removed from the **default application core** unless the applicant explicitly reopens those geographies.
+
+The live application frontier now prioritizes NUS BME, NTU EEE, HKUST Bioengineering, Toronto BME, KAUST Bioengineering, selected European routes, and the UNSW-led Australia 2028 branch.
+
+See `docs/master/geography-environment-preference.md`.
