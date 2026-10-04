@@ -40,9 +40,9 @@ Professional experience is used where a programme explicitly allows/considers ex
 
 | Gate-1 status | Count |
 | --- | ---: |
-| Likely | 52 |
-| Conditional-high-risk | 29 |
-| Unlikely | 6 |
+| Likely | 54 |
+| Conditional-high-risk | 25 |
+| Unlikely | 8 |
 | **Total** | **87** |
 
 ## Hard formal-prerequisite findings
@@ -121,3 +121,38 @@ The remaining Gate-1 work is targeted, not broad:
 3. verify programme-specific foreign-grade equivalence only where a published threshold is close to the current GPA;
 4. then promote all 87 routes with final statuses into the expanded canonical opportunity/eligibility snapshot.
 
+
+
+## Targeted verification refinements
+
+The broad first pass was followed by official-source checks for the highest-risk prerequisite patterns.
+
+Key refinements:
+
+- Aalto Life Science Technologies / Bioinformatics & Digital Health is **Conditional-high-risk**, not clean Likely, because the 2027 major-level requirements explicitly expect algorithms/data structures/programming plus a broad mathematics foundation. Work experience generally cannot substitute for the theoretical university coursework.
+- Helsinki Life Science Informatics is **Conditional-high-risk** until the transcript proves the required 25 credits in one and 15 credits in another of mathematics, CS and statistics.
+- VU Amsterdam Bioinformatics & Systems Biology is **Likely**: one missing foundation among mathematics/programming/molecular biology can be compensated/bridged, and minor gaps are explicitly handled.
+- Wageningen Bioinformatics & Systems Biology is **Likely**: the Admissions Board weighs several relevant areas and does not require all life-science topics at equal depth.
+- Utrecht Bioinformatics & Biocomplexity is **Unlikely** because it explicitly expects advanced molecular biology, biological processes, lab skills and bioinformatics in addition to computation.
+- Trento Quantitative & Computational Biology is **Unlikely** because published entry rules contain hard biology and chemistry ECTS baskets.
+- NTHU Bioinformatics & Structural Biology and NYCU Bioinformatics & Systems Biology are **Likely** based on current international-Master and English-medium programme information.
+
+## Gate 1 status
+
+**Expanded Gate 1 is now closed at the programme-requirement level.**
+
+All 87 new/replacement routes have one of three decisive states:
+
+- Likely
+- Conditional-high-risk
+- Unlikely
+
+There are no Unknown rows.
+
+
+Final new-route distribution: **54 Likely / 25 Conditional-high-risk / 8 Unlikely**.
+
+
+The Conditional-high-risk category is intentionally retained for routes where a real formal requirement still depends on course-credit conversion, language route, or foreign-degree equivalence. Those are not unresolved research questions; they are explicit application risks to resolve only if the programme survives funding/profile-differentiation gates.
+
+Next: build the expanded canonical opportunity/eligibility snapshot atomically, preserving all old rows, merges and superseded placeholders.
