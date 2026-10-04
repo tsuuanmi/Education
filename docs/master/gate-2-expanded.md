@@ -183,3 +183,9 @@ Then subdivide A into:
 - **A3 - structural package exists but amount/net cost still unclear**
 
 Only after that should the 45 B routes receive an equivalent scholarship-probability and net-cost audit.
+
+
+## Deep-audit documents
+
+- `docs/master/gate-2-structural-audit.md` - splits structural funding into A1/A2/A3 based on residual-cost risk.
+- `docs/master/gate-2-australia-2028.md` - audits the Australia Awards 2028 branch using the current 2027 rules as a refreshable baseline.
