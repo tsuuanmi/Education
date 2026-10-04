@@ -149,3 +149,34 @@ When Discovery Phase 2.0 is complete, programmes should eventually be evaluated 
 10. scholarship obligations.
 
 Profile differentiation should be explicit rather than hidden inside a generic "fit" score.
+
+
+## Amplification principle
+
+The Master's is not primarily a remediation degree.
+
+It should **amplify** the applicant's existing profile:
+
+```text
+Mechatronics
++ sensing / hardware awareness
++ physiological signals
++ medical imaging
++ genomic data
++ scientific software
++ systems thinking
+```
+
+into a clearer and more rigorous professional identity.
+
+A programme is strategically strong when admission reviewers can interpret the previous path as evidence that the applicant already works across layers and modalities.
+
+A programme is strategically weaker when the applicant must explain away most of the prior profile and compete mainly on a dimension where conventional applicants are predictably stronger.
+
+Examples:
+
+- pure CS Master's: may flatten the profile into a weaker formal-CS applicant;
+- pure molecular biology/genetics Master's: may flatten it into a weaker formal-biology applicant;
+- computational bioengineering / BME informatics / biological information engineering: can turn the same mixed background into evidence of readiness.
+
+The ideal Master's therefore **adds depth without erasing breadth**.
