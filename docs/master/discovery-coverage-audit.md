@@ -18,7 +18,7 @@ Merge audit:
 | Reframing/subtrack of an existing canonical degree | 3 |
 | **Total staging records** | **95** |
 
-If all genuinely new/replacement routes survive data promotion, the old 78-record universe would expand by **87 application-distinct routes** before Gate 1 removes anything.
+The 87 genuinely new/replacement routes have now been promoted after Gate 1. Together with the original 78 records, the canonical universe contains **165 application-distinct routes**.
 
 ## What the discovery phase now covers
 
@@ -118,16 +118,16 @@ Those uncertainties now belong to the gates, not to further discovery.
 merge/reframe 8 existing records
       |
       v
-promote 87 candidate routes
+promote 87 application-distinct routes
       |
       v
-Expanded Opportunity Universe
+165-record canonical universe
       |
       v
-Gate 1 - Formal eligibility
+Gate 1 - Formal eligibility [complete]
       |
       v
-Gate 2 - Funding / net cost
+Gate 2 - Funding / net cost [current]
       |
       v
 Gate 3 - Profile Differentiation
