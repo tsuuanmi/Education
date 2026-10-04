@@ -2,7 +2,7 @@
 
 ## Scope
 
-Expanded Gate 2 starts from all **115 Gate-1 Likely** opportunities.
+Expanded Gate 2 starts from all **103 Gate-1 Likely** opportunities.
 
 This pass is **not a programme ranking**. It classifies financial architecture before profile differentiation or PI fit.
 
@@ -12,23 +12,20 @@ The central distinction is:
 
 A programme can guarantee a stipend yet still be financially difficult for an international student after tuition and living expenses.
 
-## Preliminary distribution
+## Canonical distribution
 
 | Gate-2 class | Count |
 | --- | ---: |
-| A1 - Near-zero structural funding | 13 |
-| A2 - Structural funding with residual risk | 4 |
-| A3 - Structural package, amount unclear | 2 |
-| B1 - Full-package competitive | 23 |
-| B2 - Mixed / partial competitive funding | 19 |
-| B3 - Assistantship / funding uncertain | 3 |
-| C - Financially resilient / low tuition | 8 |
-| D - High cost / scholarship-dependent | 26 |
-| Deferred - Australia Awards 2028 | 10 |
-| Audit needed | 7 |
-| **Total Likely routes** | **115** |
+| A - Structurally funded | 13 |
+| B - Strongly fundable | 38 |
+| C - Financially resilient | 15 |
+| D - High-cost / scholarship-dependent | 28 |
+| Deferred - 2028 full-funding route | 9 |
+| **Total Likely routes** | **103** |
 
-The row-level working data is in `data/master/gate2-expanded-staging.csv`.
+The canonical row-level table is `data/master/expanded-funding.csv`.
+
+`data/master/gate2-expanded-staging.csv` and `data/master/funding-expanded.csv` are retained as working/provenance views, but are synchronized to the same 103-ID Gate-1-Likely set.
 
 ## Semantics
 
@@ -167,27 +164,18 @@ The user is comfortable with the two-year return-to-Vietnam obligation. Therefor
 
 The exact 2028 country profile and eligible-course rules remain TBA.
 
-## Next pass
+## Current next pass
 
-Deep-audit the 19 A-structural routes first.
+Gate 2 is now a **targeted verification / net-cost phase**, not a broad classification pass.
 
-For each one, calculate or estimate:
+Priority work is:
 
-```text
-gross guaranteed funding
-- mandatory tuition / university fees
-- realistic living cost
-= annual residual / surplus
-```
+1. keep deepening residual-cost estimates for A/C routes where gross funding can hide tuition or living exposure;
+2. distinguish genuinely full B-band packages from tuition-only or quota-limited awards;
+3. keep Australia Awards 2028 as a first-class deferred full-funding branch;
+4. carry only financially credible routes into final portfolio optimization.
 
-Then subdivide A into:
-
-- **A1 - near-zero or positive expected residual**
-- **A2 - structurally funded but meaningful residual risk**
-- **A3 - structural package exists but amount/net cost still unclear**
-
-Only after that should the 45 B routes receive an equivalent scholarship-probability and net-cost audit.
-
+Conditional-high-risk Gate-1 routes are not included in these 103 rows. They should receive more eligibility work only if their funding/profile upside justifies reopening them.
 
 ## Deep-audit documents
 
