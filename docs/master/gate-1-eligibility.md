@@ -1,153 +1,130 @@
-# Gate 1 - Formal Eligibility Audit
+# Gate 1 - Formal Eligibility
 
-Gate 1 asks only:
+## Status
 
-> **Can the applicant plausibly satisfy the published formal entry requirements?**
+**Gate 1 is closed for the expanded Discovery 2.0 universe.**
 
-It does not predict admission, supervisor interest, scholarship success, or net cost. Those belong to later gates.
+The canonical universe now contains **165 application records** after merging the original universe with Discovery Phase 2.0.
 
-## Canonical applicant evidence
+Discovery duplicates and subtracks were not double-counted. Historical placeholder rows are retained only for provenance and marked Superseded.
 
-- BEng / Honors Program in Mechatronics Engineering, UET-VNU
-- GPA 3.47 / 4.0; classification: Distinction
-- mathematics, linear algebra, probability/statistics, computational methods
-- automatic control
-- electronics/electrotechnics
-- measurement and sensors
-- programming, microprocessors/microcontrollers and AI
-- A+ EEG emotion-classification thesis
-- neurotechnology and genomics R&D, public genomics outputs and open-source scientific software
+## Final expanded distribution
 
-Known transcript risks:
-
-- no clearly titled Signals & Systems / DSP course;
-- no obvious formal cell/molecular biology coursework;
-- no obvious chemistry coursework.
-
-Professional work and research strengthen selection, but are not treated as substitutes for hard curricular-credit requirements unless the programme explicitly allows that.
-
-## Final status semantics
-
-- **Likely**: no published hard prerequisite mismatch is visible. Routine international-equivalence, test, document, interview, supervisor or competitive-selection steps do not keep a programme conditional.
-- **Conditional-high-risk**: a specific formal degree/credit/grade/direct-entry requirement could materially block admission or force substantial bridging.
-- **Unlikely**: the current profile appears to miss a published hard prerequisite.
-- **Not-actionable**: not a concrete/open target for the intended cycle; exclude from scoring until a real programme route exists.
-- **Superseded**: duplicate/legacy tracking row; exclude from scoring.
-
-Decision shorthand:
-
-```text
-Likely                 -> proceed to Gate 2
-Conditional-high-risk  -> High-risk; resolve only if ROI justifies it
-Unlikely               -> Drop
-Not-actionable         -> Drop for this cycle
-Superseded             -> Ignore
-```
-
-## Final full-universe result
-
-All **78 tracked opportunity records** now have a decisive Gate-1 state.
-
-| Gate 1 status | Count |
+| Gate-1 status | Count |
 | --- | ---: |
-| Likely | 49 |
-| Conditional-high-risk | 20 |
-| Unlikely | 3 |
-| Not-actionable | 2 |
-| Superseded | 4 |
+| Likely | 115 |
+| Conditional-high-risk | 32 |
+| Unlikely | 12 |
+| Not-actionable | 1 |
+| Superseded | 5 |
+| **Total** | **165** |
 
-There are now **zero** records in `Unknown`, `Conditional-likely`, or generic `Conditional`.
+## Gate definition
 
-## Resolution pass - 2026-10-04
+Gate 1 evaluates formal academic admissibility only:
 
-The final pass deliberately separates formal eligibility from application friction.
+- qualifying Bachelor discipline;
+- GPA / foreign-degree equivalence;
+- hard prerequisite-credit baskets;
+- direct-entry vs preparatory route;
+- programme-specific academic preparation.
 
-### Moved to Likely
+IELTS/TOEFL, GRE, entrance examinations, supervisor pre-contact, scholarship competition and general selectivity are not by themselves Gate-1 blockers when the academic background is compatible.
 
-The remaining issue for these cases is a test, document, supervisor match, normal foreign-degree equivalence, or competitive selection rather than a demonstrated curriculum mismatch:
+## Applicant lens after Discovery 2.0
 
-- Bologna Biomedical Engineering
-- NTU Singapore EEE MEng by Research
-- Tampere Biomedical Informatics
-- Tampere Medical Physics and Biomedical Instrumentation
-- TU Delft BME - Medical Devices
-- Heidelberg Biomedical Engineering
-- TUM Biomedical Engineering and Medical Physics
-- Luebeck Medical Engineering Science
-- BME Paris - M1
-- SNU Interdisciplinary Program in Bioengineering
-- University of Tokyo G30 Bioengineering
-- Tohoku Biomedical Engineering
-- NTHU Biomedical Engineering and Environmental Sciences
-- NTU Singapore CCEB MEng by Research
-- NTU Taiwan Biomedical Electronics and Bioinformatics
-- NTU Taiwan Biomedical Engineering
-- NYCU Intelligent Bioelectrical Engineering
-- EMMBIOME
-- UNSW MPhil Engineering - Biomedical Engineering
+The search objective is now **systems-oriented computational / dry-lab Research Engineering for biological and healthcare data**, not BCI or genetics as fixed domains.
 
-Examples:
-
-- **TUM**: its written aptitude assessment is a selection mechanism, not by itself an eligibility mismatch.
-- **Tohoku**: advisor permission, TOEFL/TOEIC and entrance examination are execution/selection gates.
-- **University of Tokyo G30**: mandatory GRE + TOEFL/IELTS are application requirements, not evidence that the engineering Bachelor is unsuitable.
-- **BME Paris**: a 4-year foreign science/engineering Bachelor applies to M1; engineering is explicitly welcomed.
-
-### High-risk after resolution
-
-These retain a real formal blocker risk:
-
-- **Chalmers BME** - hard >=6-credit Signals & Systems / Signal Processing requirement.
-- **KTH Medical Engineering** - hard 15-ECTS Physics requirement.
-- **TU Eindhoven BME** - direct-entry subject equivalence/bridging remains insufficiently established for a Vietnamese Mechatronics degree.
-- **ULB BME** - jury may impose substantial bridging; local BME foundations contain life-science content absent from the transcript.
-- **RWTH EEITCE - Biomedical Systems Engineering** - hard baskets include 34 CP theoretical EE, systems theory and theoretical specialization.
-- **Europhotonics** - normally expects at least 12 ECTS physics and 12 ECTS mathematics.
-- **Melbourne MPhil Engineering and IT** - exact grade conversion and substantial-research-component threshold are material; current FEIT guidance puts the profile very close to the indicative academic boundary.
-
-These are not automatic rejects. They are evidence-required high-risk cases.
-
-### Removed from active scoring
-
-- **University of Osaka Engineering English Master's** is **Not-actionable** because the row represents a generic English admissions route rather than a concrete 2027 division/lab/programme. Re-add only as a specific opportunity with its own eligibility rules.
-
-## Strategic conclusion
+The applicant's cross-layer trajectory is:
 
 ```text
-Engineering-first / methods-first
-  -> usually cleaner formal eligibility
-  -> control, sensing, signals, instrumentation, EE/CS research routes
-
-BME with hard curricular baskets
-  -> profile can be intellectually strong but formally fragile
-  -> explicit signal/physics/life-science/EE credit requirements dominate
-
-Research degrees
-  -> often clean at Gate 1
-  -> supervisor fit, research evidence and funding become the real later gates
+Mechatronics
+-> sensors / control / physical systems
+-> Earable: physiological signals
+-> VinBigData: medical imaging
+-> GeneStory: genomic data
+-> DNA: scientific software / pipelines
 ```
 
-The search should remain **degree-title agnostic**. A systems/control/EE/instrumentation route can be a better path to neurotechnology/biomedical research than a degree literally titled Biomedical Engineering.
+The strongest formal fits are often programmes where engineering is an intended starting identity and biological/medical literacy is added through curriculum or research.
 
-## Gate 1 is closed
+## Important formal-fit patterns
 
-Do not expand the opportunity universe by default.
+### Engineering-first interdisciplinary routes are usually cleaner
 
-The next canonical stage is **Gate 2 - net cost and funding feasibility**, starting with the `Likely` set and prioritising:
+Discovery 2.0 found many programmes where the current background is a natural entry point rather than a deficiency.
 
-1. fully funded / stipend-bearing research routes;
-2. Erasmus Mundus and named external scholarships;
-3. low-tuition programmes with realistic living-cost support;
-4. only then partially funded high-cost coursework routes.
+Examples include:
 
-High-risk Gate-1 programmes should enter Gate 2 only when their funding upside is strong enough to justify resolving the formal blocker.
+- Imperial Computational Bioengineering;
+- KAUST Bioengineering;
+- MBZUAI Computational Biology;
+- University of Toronto / Waterloo / McMaster BME research degrees;
+- Bern BME;
+- QUT Biomedical Systems & Technology;
+- NAIST Computational Biology;
+- CUHK Translational Genomics;
+- UNIST BME;
+- UCT Biomedical Engineering.
 
+### Conventional CS / biology routes often impose hard reconstruction costs
 
-## Scope expansion - 2026-10-04
+Several otherwise attractive programmes are Unlikely because they require formal undergraduate credits that professional experience cannot safely replace.
 
-The universe was deliberately reopened for two Australia computational-genomics programmes after the applicant clarified that the target is not BCI-specific. Both new records are Gate-1 Likely:
+Examples include:
 
-- UQ Master of Bioinformatics (Research Extensive);
-- Monash Master of Bioinformatics - Research Stream.
+- DTU Bioinformatics - molecular-biology credit;
+- University of Copenhagen Bioinformatics - biology/bioinformatics/ML baskets;
+- FU Berlin Bioinformatics - CS + math/stats + biology/chemistry baskets;
+- Utrecht Bioinformatics & Biocomplexity - molecular biology + lab + life-science preparation;
+- Trento Quantitative & Computational Biology - biology + chemistry ECTS;
+- University of Milan Quantitative Biology - hard biology CFU;
+- Clemson BDSI - one year college biology;
+- University of Toronto Data Science for Biology - advanced CS + upper-level biology;
+- SFU Computing Science - OS + DSA + databases;
+- McGill BBME - university-level general life-science course.
 
-This is a scope correction, not a return to broad programme expansion.
+This supports the **Amplification Principle**: the Master's should deepen the hybrid profile rather than force the applicant to reconstruct a conventional CS or biology undergraduate identity.
+
+## Conditional-high-risk meaning
+
+The 32 Conditional-high-risk records remain because a **real formal uncertainty** still exists, such as:
+
+- hard CS-credit mapping;
+- hard biology/informatics balance;
+- direct entry vs pre-Master;
+- foreign-degree equivalence;
+- department-specific prerequisite mapping.
+
+These records are still valid opportunities, but should not be treated as equivalent to Likely routes until their blocker is resolved.
+
+## Canonical data
+
+The expanded universe is now canonical in:
+
+- `data/master/opportunities.csv`
+- `data/master/eligibility.csv`
+
+Discovery provenance remains available in:
+
+- `data/master/discovery-systems-bio.csv`
+- `data/master/discovery-merge-audit.csv`
+- `data/master/discovery-promotion-map.csv`
+
+## Next gate
+
+Proceed to **Expanded Gate 2 - Funding / net personal cost**.
+
+Funding must be modelled as:
+
+```text
+tuition
+- structural / guaranteed funding
+- realistic scholarship support
++ living costs
++ mandatory fees / insurance
++ service / return obligations
+= residual personal exposure
+```
+
+No shortlist should be frozen before funding and Profile Differentiation are both evaluated.
