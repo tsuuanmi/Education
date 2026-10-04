@@ -29,12 +29,13 @@ The programme should preserve methodological breadth and career optionality.
 
 ## Applicant-specific search lens
 
-The profile has two real biological-domain anchors:
+The profile has three real healthcare-data anchors:
 
 1. **Earable / EEG / physiological sensing** - measurement, signals, embedded/product R&D.
-2. **GeneStory / DNA scientific software** - genomics, biological data, analysis pipelines, validation and reproducible software.
+2. **VinBigData / medical imaging** - image-based healthcare data and AI exposure.
+3. **GeneStory / DNA scientific software** - genomics, biological data, analysis pipelines, validation and reproducible software.
 
-Neither anchor should dominate discovery.
+No single modality should dominate the programme choice. Their common value is repeated experience turning raw healthcare/biological evidence into computational systems and usable outputs.
 
 GeneStory experience is a strength for admission because it demonstrates several years of real biological-data R&D. However, a programme should not be preferred merely because it is genomics-specific. Prefer degrees whose computational and systems methods transfer across biological domains.
 
@@ -193,8 +194,8 @@ Search globally where the research model is strong.
 - [x] Dedicated Asia discovery under broadened scope
 - [x] Discovery completeness review
 - [x] Deduplicate and assign stable promotion IDs
-- [~] Re-run Gate 1 on expanded universe
-- [ ] Promote the expanded universe atomically after Gate 1 closes
+- [x] Re-run Gate 1 on expanded universe
+- [x] Promote the expanded universe after Gate 1 closes
 - [~] Re-run Gate 2 funding feasibility
 - [ ] Cross-domain PI/lab audit
 - [ ] Final application portfolio
@@ -217,8 +218,8 @@ Broad Discovery Phase 2.0 is frozen.
 - 8 merge/reframe into existing degrees.
 - 87 genuinely new/replacement application routes.
 - **165 application-distinct canonical records** after promotion.
-- Canonical Gate 1: **115 Likely / 32 Conditional-high-risk / 12 Unlikely / 1 Not-actionable / 5 Superseded**.
-- Expanded Gate 1 is closed.
-- Expanded Gate 2 is now open and starts from the **115 Likely** routes.
+- Canonical Gate 1: **103 Likely / 45 Conditional-high-risk / 11 Unlikely / 1 Not-actionable / 5 Superseded**.
+- Expanded Gate 1 is closed and fully synced across `opportunities.csv` and `eligibility.csv`.
+- Expanded Gate 2 is now open and starts from the **103 Likely** routes.
 
 Do not resume broad search by default.
