@@ -204,3 +204,8 @@ The next PI deep-audit sequence is now:
 6. selected European research/thesis environments.
 
 The completed UNIST/NAIST/KAIST PI research remains in the repository for provenance and may be reactivated only if the applicant's geography preference changes.
+
+
+## Active-geography deep audit
+
+After applying the applicant's geography preference, the next-stage PI ordering is maintained in `docs/master/active-pi-deep-audit.md`.
