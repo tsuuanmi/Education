@@ -112,3 +112,13 @@ As of 2026-10-04:
 The detailed deadline-first audit is now in `docs/master/gate-2-priority-audit.md`.
 
 The main conclusion is stronger than the first pass: prioritise structurally funded research degrees (Hong Kong/Korea and scholarship-funded Singapore research) before high-cost coursework programmes with low-probability merit awards.
+
+
+## Australia computational-genomics branch
+
+The 2028 Australia branch now includes two additional Likely programmes:
+
+- UQ Master of Bioinformatics (Research Extensive);
+- Monash Master of Bioinformatics - Research Stream.
+
+Both are financially unattractive at sticker price but become high-value if Australia Awards 2028 retains the current full-funding structure. Their importance is strategic: they preserve a dry-lab, systems-and-software Research Engineer identity while moving the biological domain from neural sensing to genetics/genomics.
