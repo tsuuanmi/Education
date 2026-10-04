@@ -89,7 +89,7 @@ Geographies:
 - [ ] Korea + Japan + Hong Kong + Taiwan + Singapore
 - [ ] Erasmus Mundus catalogue
 - [ ] 2028 government scholarship routes
-- [ ] Final eligibility filter
+- [~] Gate 1 formal eligibility audit
 - [ ] Final finance filter
 - [ ] Research-lab fit and application portfolio
 
