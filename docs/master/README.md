@@ -88,6 +88,35 @@ Relevant degree families now include:
 - Research Master's: MSc thesis, MPhil, MEng by Research, MS
 - Joint / Erasmus Mundus programmes when methods and funding are strong
 
+### Competitive-positioning guardrail
+
+Do not choose a programme merely because it is broad.
+
+Prefer programmes where the applicant's unusual combination becomes an advantage:
+
+```text
+Mechatronics / hardware / sensing
++ control / systems thinking
++ programming / scientific software
++ physiological-data R&D
++ genomics / biological-data R&D
+```
+
+Avoid making the applicant compete as a weaker copy of a pure-CS, pure-biology, pure-EE, or pure-data-science graduate when a genuinely interdisciplinary programme can value the full profile.
+
+Especially attractive programme architectures include:
+
+- bioinformatics with an explicit Engineering major / conversion path;
+- computational bioengineering;
+- biomedical / biological data science built for engineering entrants;
+- biomedical informatics / digital health with strong technical depth;
+- systems / quantitative biology with substantial computation and modelling;
+- bioelectronics + bioinformatics / biological information engineering;
+- broad bioengineering programmes containing computational, sensing, and systems tracks;
+- engineering research degrees where biological-data systems are a major research area.
+
+Pure CS / Data Science programmes remain in discovery only when the biological research ecosystem, thesis structure, or structural funding is exceptional enough to justify the admission-positioning disadvantage.
+
 ### Breadth guardrail
 
 Do not optimise for a domain label.
