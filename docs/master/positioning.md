@@ -180,3 +180,10 @@ Examples:
 - computational bioengineering / BME informatics / biological information engineering: can turn the same mixed background into evidence of readiness.
 
 The ideal Master's therefore **adds depth without erasing breadth**.
+
+
+## Canonical programme-fit specification
+
+The detailed applicant-specific definition of programme fit is maintained in `docs/master/program-fit-spec.md`.
+
+The key rule is: **add vertical methodological depth to existing horizontal breadth rather than adding another disconnected domain**.
