@@ -43,6 +43,8 @@ Finance is a hard constraint. Full tuition + living support is strongly preferre
 - [Master research plan](docs/master/README.md)
 - [Applicant profile](docs/master/profile.md)
 - [Opportunity universe](data/master/opportunities.csv)
+- [Gate 1 eligibility audit](data/master/eligibility.csv)
+- [Gate 1 methodology and conclusions](docs/master/gate-1-eligibility.md)
 - [Research log](docs/master/research-log/2026-10-04.md)
 
 ## Evidence standard
