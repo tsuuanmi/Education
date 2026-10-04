@@ -1,0 +1,96 @@
+staging_id,merge_action,existing_target_id,proposed_canonical_id,region,university,program
+D2-EU-001,new_opportunity,,EU-FI-006,Finland,Aalto University,Life Science Technologies - Bioinformatics and Digital Health
+D2-EU-002,new_opportunity,,EU-FI-007,Finland,University of Helsinki,Life Science Informatics - Bioinformatics and Systems Medicine
+D2-EU-003,new_opportunity,,EU-SE-004,Sweden,Uppsala University,Bioinformatics - Computer Science Background
+D2-EU-004,new_opportunity,,EU-CH-003,Switzerland,ETH Zurich / UZH / Basel,Computational Biology and Bioinformatics
+D2-EU-005,new_opportunity,,EU-BE-005,Belgium,KU Leuven,Master of Bioinformatics - Engineering Major
+D2-EU-006,new_opportunity,,EU-NL-006,Netherlands,VU Amsterdam / University of Amsterdam,Bioinformatics and Systems Biology
+D2-EU-007,new_opportunity,,EU-NL-007,Netherlands,Utrecht University,Bioinformatics and Biocomplexity
+D2-EU-008,new_opportunity,,EU-NL-008,Netherlands,Wageningen University,Bioinformatics and Systems Biology
+D2-EU-009,new_opportunity,,EU-DK-002,Denmark,DTU,Bioinformatics
+D2-EU-010,new_opportunity,,EU-DK-003,Denmark,University of Copenhagen,Bioinformatics
+D2-EU-011,new_opportunity,,EU-DE-010,Germany,Saarland University,Bioinformatics
+D2-EU-012,new_opportunity,,EU-ES-001,Spain,Universitat Pompeu Fabra,Bioinformatics for Health Sciences
+D2-EU-013,new_opportunity,,EU-IT-007,Italy,University of Milan / Politecnico di Milano,Bioinformatics for Computational Genomics
+D2-UK-001,new_opportunity,,EU-UK-001,United Kingdom,Imperial College London,Bioinformatics and Theoretical Systems Biology
+D2-UK-002,new_opportunity,,EU-UK-002,United Kingdom,University of Manchester,Bioinformatics and Systems Biology
+D2-UK-003,new_opportunity,,EU-UK-003,United Kingdom,University of Cambridge,Computational Biology
+D2-CA-001,new_opportunity,,NA-CA-001,Canada,University of British Columbia,Bioinformatics
+D2-CA-002,new_opportunity,,NA-CA-002,Canada,University of Toronto,MScAC - Data Science for Biology
+D2-CA-003,new_opportunity,,NA-CA-003,Canada,McGill University,Biology MSc - Bioinformatics Option
+D2-AU-001,merge_exact,AU-005,AU-005,Australia,The University of Queensland,Master of Bioinformatics (Research Extensive)
+D2-AU-002,merge_exact,AU-006,AU-006,Australia,Monash University,Master of Bioinformatics - Research Stream
+D2-AU-003,new_opportunity,,AU-007,Australia,Australian National University,Quantitative Biology and Bioinformatics - Advanced
+D2-AU-004,merge_reframe,AU-001,AU-001,Australia,UNSW Sydney,MPhil Engineering - Biomedical Engineering / Digital Medicine & Digital Biology
+D2-AS-001,new_opportunity,,AS-HK-005,Hong Kong SAR,University of Hong Kong,Computing and Data Science MPhil - Bioinformatics
+D2-AS-002,merge_reframe,AS-HK-002,AS-HK-002,Hong Kong SAR,HKUST,Bioengineering MPhil - Biological Information Engineering
+D2-AS-003,new_opportunity,,AS-HK-006,Hong Kong SAR,Chinese University of Hong Kong,Translational Genomics MPhil
+D2-AS-004,merge_exact,AS-KR-001,AS-KR-001,South Korea,KAIST,Bio and Brain Engineering
+D2-AS-005,new_opportunity,,AS-JP-004,Japan,University of Tokyo,Computational Biology and Medical Sciences - Computational Biology
+D2-AS-006,new_opportunity,,AS-KR-005,South Korea,Seoul National University,Interdisciplinary Program in Bioinformatics
+D2-AS-007,new_opportunity,,AS-SG-007,Singapore,Nanyang Technological University,MSc Biomedical Data Science
+D2-AS-008,new_opportunity,,AS-SG-008,Singapore,National University of Singapore,MSc Biomedical Informatics - Analytics
+D2-AS-009,new_opportunity,,AS-SG-009,Singapore,National University of Singapore,MSc Precision Health and Medicine x AI - Capstone
+D2-AS-010,merge_exact,AS-TW-005,AS-TW-005,Taiwan,National Taiwan University,Smart Medicine and Health Informatics
+D2-AS-011,merge_exact,AS-TW-006,AS-TW-006,Taiwan,National Taiwan University,Biomedical Electronics and Bioinformatics
+D2-AS-012,new_opportunity,,AS-TW-009,Taiwan,National Tsing Hua University,Institute of Bioinformatics and Structural Biology
+D2-AS-013,new_opportunity,,AS-TW-010,Taiwan,National Yang Ming Chiao Tung University,Institute of Bioinformatics and Systems Biology
+D2-AS-014,new_opportunity,,AS-HK-007,Hong Kong SAR,HKUST,MSc Biomolecular Engineering and Health Informatics
+D2-EU-014,new_opportunity,,EU-IT-008,Italy,University of Trento,Quantitative and Computational Biology
+D2-EU-015,new_opportunity,,EU-IT-009,Italy,University of Milan,Quantitative Biology
+D2-EU-016,new_opportunity,,EU-FR-004,France,Universite Paris-Saclay,Bioinformatics / Computational Biology - GENIOMHE-AI
+D2-EU-017,new_opportunity,,EU-DE-011,Germany,Freie Universitat Berlin,Bioinformatics
+D2-CA-004,new_opportunity,,NA-CA-004,Canada,University of Guelph,MSc Bioinformatics
+D2-CA-005,new_opportunity,,NA-CA-005,Canada,McGill University,MSc Computer Science (Thesis) - Bioinformatics
+D2-CA-006,new_opportunity,,NA-CA-006,Canada,Simon Fraser University,MSc Computing Science - thesis with Computational Biology research
+D2-CA-007,new_opportunity,,NA-CA-007,Canada,University of Alberta,MSc Computing Science - thesis with Bioinformatics / Multi-omics research
+D2-AU-005,new_opportunity,,AU-008,Australia,Monash University,Master of Data Science - Research Stream with computational-biology thesis
+D2-UK-004,new_opportunity,,EU-UK-004,United Kingdom,Imperial College London,Biomedical Engineering - Computational Bioengineering
+D2-UK-005,new_opportunity,,EU-UK-005,United Kingdom,Imperial College London,Biomedical Research - Data Science
+D2-UK-006,new_opportunity,,EU-UK-006,United Kingdom,University College London,Health Data Science
+D2-EU-018,new_opportunity,,EU-ES-002,Spain,URV / UPC / UB / UAB / UdG / UdL / UVic / Universite Grenoble Alpes,Health Data Science
+D2-US-001,new_opportunity,,NA-US-001,United States,Johns Hopkins University,Biomedical Engineering MSE - Biomedical Data Science / Computational Medicine / Genomics & Systems Biology
+D2-US-002,new_opportunity,,NA-US-002,United States,University of Illinois Urbana-Champaign,MS Bioengineering - Computational and Systems Bioengineering
+D2-US-003,new_opportunity,,NA-US-003,United States,University of Pennsylvania,Bioengineering MSE - Biomedical Data Science and Computational Medicine
+D2-US-004,new_opportunity,,NA-US-004,United States,Clemson University / MUSC,Biomedical Data Science and Informatics
+D2-US-005,new_opportunity,,NA-US-005,United States,University of Kansas,MS Bioengineering - Computational Bioengineering
+D2-AU-006,new_opportunity,,AU-009,Australia,Queensland University of Technology,Master of Data Science - Biomedical Data Science specialisation
+D2-AS-015,new_replace_placeholder,AS-JP-003,AS-JP-005,Japan,The University of Osaka,Bioinformatic Engineering
+D2-AS-016,new_opportunity,,AS-JP-006,Japan,University of Tsukuba,Life Science Innovation - Bioinformatics
+D2-AS-017,new_opportunity,,AS-TW-011,Taiwan,Taipei Medical University,Graduate Institute of Biomedical Informatics
+D2-AS-018,new_opportunity,,AS-TW-012,Taiwan,Yuan Ze University,Graduate Program in Biomedical Informatics
+D2-AS-019,new_opportunity,,AS-TW-013,Taiwan,National Taiwan University of Science and Technology,Graduate Institute of Biomedical Engineering - AI / Biomedical Informatics
+D2-ME-001,new_opportunity,,ME-SA-001,Saudi Arabia,KAUST,Bioengineering - Bioinformatics and Machine Learning
+D2-ME-002,new_opportunity,,ME-AE-001,United Arab Emirates,Mohamed bin Zayed University of Artificial Intelligence,MSc Computational Biology
+D2-NZ-001,new_opportunity,,OC-NZ-001,New Zealand,University of Auckland,Master of Engineering in Bioengineering - Research
+D2-IL-001,new_opportunity,,ME-IL-001,Israel,Tel Aviv University,Biomedical Engineering MSc
+D2-IL-002,new_opportunity,,ME-IL-002,Israel,Weizmann Institute of Science,Life Sciences MSc - Computational and Systems Biology
+D2-IL-003,new_opportunity,,ME-IL-003,Israel,Technion - Israel Institute of Technology,Biomedical Engineering MSc
+D2-CA-008,new_opportunity,,NA-CA-008,Canada,McGill University,MSc Biological and Biomedical Engineering - Thesis
+D2-CA-009,new_opportunity,,NA-CA-009,Canada,University of Toronto,Biomedical Engineering MASc
+D2-CA-010,new_opportunity,,NA-CA-010,Canada,University of Waterloo,Biomedical Engineering MASc
+D2-CA-011,new_opportunity,,NA-CA-011,Canada,McMaster University,Biomedical Engineering MASc
+D2-EU-019,new_opportunity,,EU-CH-004,Switzerland,University of Bern,Biomedical Engineering
+D2-EU-020,new_opportunity,,EU-AT-001,Austria,Graz University of Technology,Biomedical Engineering
+D2-EU-021,new_opportunity,,EU-AT-002,Austria,TU Wien + Medical University of Vienna,Medical Informatics
+D2-EU-022,new_opportunity,,EU-IE-001,Ireland,University of Galway,Health Data Science
+D2-EU-023,new_opportunity,,EU-IE-002,Ireland,Trinity College Dublin,Biomedical Engineering
+D2-CA-012,new_opportunity,,NA-CA-012,Canada,University of Alberta,Biomedical Engineering MSc - thesis
+D2-CA-013,new_opportunity,,NA-CA-013,Canada,University of Ottawa + Carleton University,Biomedical Engineering MASc - Bioinformatics specialization
+D2-CA-014,new_opportunity,,NA-CA-014,Canada,Dalhousie University,Biomedical Engineering MASc
+D2-EU-024,new_opportunity,,EU-CH-005,Switzerland,University of Basel + FHNW,Joint MSc Biomedical Engineering
+D2-EU-025,merge_reframe,EU-CH-002,EU-CH-002,Switzerland,EPFL,Life Sciences Engineering - Biological Data Science / Biomedical Engineering
+D2-AS-020,new_opportunity,,AS-JP-007,Japan,Hokkaido University,Course of Bioengineering and Bioinformatics - Graduate School of Information Science and Technology
+D2-AS-021,new_opportunity,,AS-JP-008,Japan,Nara Institute of Science and Technology (NAIST),Program of Computational Biology
+D2-AS-022,new_opportunity,,AS-JP-009,Japan,Kyushu University,Graduate School of Systems Life Sciences - Bioinformatics / Life Engineering
+D2-AS-023,new_opportunity,,AS-JP-010,Japan,Kyoto University,Systems Science - Graduate School of Informatics
+D2-AS-024,new_opportunity,,AS-JP-011,Japan,Kyushu Institute of Technology (Kyutech),Biomedical Informatics Course - Graduate School of Computer Science and Systems Engineering
+D2-AS-025,new_opportunity,,AS-KR-006,South Korea,UNIST,Biomedical Engineering MS
+D2-AU-007,new_opportunity,,AU-010,Australia,Queensland University of Technology,Master of Biomedical Systems and Technology
+D2-AU-008,new_opportunity,,AU-011,Australia,University of Sydney,Master of Digital Health and Data Science
+D2-AU-009,new_opportunity,,AU-012,Australia,Monash University,Master of Health Data Analytics
+D2-EU-026,new_opportunity,,EU-DE-012,Germany,University of Tübingen,Medical Informatics
+D2-EU-027,new_opportunity,,EU-FR-005,France,Université Grenoble Alpes,Health Engineering - BioHealth Engineering
+D2-AF-001,new_opportunity,,AF-ZA-001,South Africa,University of Cape Town,MSc Computational Health Informatics
+D2-AF-002,new_opportunity,,AF-ZA-002,South Africa,University of Cape Town,MSc Biomedical Engineering
+D2-LA-001,new_opportunity,,LA-BR-001,Brazil,University of São Paulo (USP),MSc Bioengineering - Health Technology research line
