@@ -246,3 +246,10 @@ Core rule: **Engineering as the foundation; biological systems as the applicatio
 See [Cross-Domain PI / Lab Frontier](pi-frontier.md) and `data/master/pi-frontier.csv`.
 
 The PI gate now prioritizes transferable methods, research ownership and engineering-rooted biological-systems work rather than simple domain similarity.
+
+
+### Geography / environment preference
+
+See [Geography / Environment Preference Policy](geography-environment-preference.md).
+
+Korea and Japan remain academically evaluated in the canonical universe but are **deprioritized from the default application portfolio** based on applicant-specific environment preference. Current deep-audit priority shifts to Singapore, Hong Kong, Canada, Europe and Australia.
