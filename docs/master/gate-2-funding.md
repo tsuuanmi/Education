@@ -1,93 +1,157 @@
-# Gate 2 - Net Cost and Funding Feasibility
+# Gate 2 - Funding and Net Personal Cost (Expanded Universe)
 
-## Status: reopened after Discovery Phase 2.0
+## Status
 
-The earlier Gate-2 pass covered the pre-expansion universe and is now a **historical baseline**, not the current funding ranking.
+Expanded Gate 2 now starts from the **115 Gate-1 Likely programmes**.
 
-The canonical opportunity universe now contains:
+This document replaces the pre-expansion shortlist-centric funding view. There is **no core shortlist at this stage**.
 
-- **115 Gate-1 Likely** routes;
-- 32 Conditional-high-risk;
-- 12 Unlikely;
-- 1 Not-actionable;
-- 5 Superseded.
+Funding is evaluated by architecture, not by whether a programme advertises a scholarship.
 
-Expanded Gate 2 must therefore be rerun from the 115 Likely routes.
+## Funding architecture
 
-Gate 2 asks:
+| Architecture | Count | Meaning |
+| --- | ---: | --- |
+| Admission-linked full | 3 | Funding is effectively part of funded admission for the relevant programme population |
+| Admission-linked research studentship | 4 | Research studentship is closely tied to research admission, though tuition/living residual remains |
+| Guaranteed research package | 4 | A minimum package is guaranteed during normal research candidature |
+| Research package with offer | 2 | Admission/supervisor offer includes funding, amount may vary |
+| Research-funded conditional | 6 | TA/RA/supervisor support is normal/available but amount or automaticity varies |
+| Competitive full internal | 5 | University scholarship can fully fund study but is a separate selection layer |
+| Full external competitive | 17 | AAS/EMJM/Vingroup-like external full-funding route |
+| Full external limited | 1 | Fully funded external route with a small fixed quota |
+| Low-cost self-fund | 4 | Tuition is structurally low/no tuition; living remains self-funded |
+| Tuition-scholarship only | 9 | Tuition may be waived/reduced, but living remains exposed |
+| High-cost scholarship-dependent | 8 | Financially unattractive unless a major award is won |
+| Competitive scholarship route | 37 | Scholarship can materially change economics; exact route needs audit |
+| Weak / unknown | 15 | Current evidence is insufficient |
 
-> **Can the applicant plausibly complete the degree without an unacceptable personal financial burden?**
+The canonical first-pass table is `data/master/funding-expanded.csv`.
 
-Finance remains a hard constraint.
+## Critical distinction: admission funding vs scholarship funding
 
-## Funding priority
+A programme can be "fully funded" in two very different senses.
 
-1. full tuition + living stipend;
-2. full tuition with manageable residual living exposure;
-3. low/no tuition + realistic living support;
-4. partial scholarship only when residual cost is clearly manageable.
+### Funding is structurally linked to admission
 
-A return-to-Vietnam obligation is recorded but is **not automatically negative**. Australia Awards and similar obligations can be compatible with the career plan when the return period supports R&D, publications, scientific software and international collaboration.
+Examples:
 
-## 2027 and 2028
+- **KAUST**: the fellowship covers tuition/bench fees, housing, insurance, relocation and an MS stipend of about USD 20,000/year for admitted students unless external sponsorship changes the arrangement.
+- **Weizmann**: full-time MSc students receive a 24-month fellowship; current regular rate is NIS 7,000/month and tuition is not charged.
+- **UNIST BME**: the department advertises full financial support for all BME graduate students.
+- **Toronto BME MASc**: a minimum international MASc package is published for years 1-2.
+- **Dalhousie BME MASc**: all graduate students are funded and a minimum post-fee take-home range is published.
 
-Both start years are valid.
+These should generally be more financially robust than programmes where admission and scholarship decisions are separate.
 
-Do not force a weaker 2027 application when 2028 materially improves:
+### Full package exists, but scholarship selection is separate
 
-- funding;
-- programme fit;
-- supervisor fit;
-- test preparation;
-- application quality.
+Examples:
 
-Australia Awards 2028 is a first-class funding route.
+- **NUS Research Scholarship**: full tuition + S$2,900/month for international Master's (Research), but the scholarship is competitive and should not be assumed from admission.
+- **NTU Research Scholarship**: similarly strong when awarded, but remains a scholarship layer.
+- **Australia Awards**: full fees + living contribution + travel + OSHC when awarded; 2028 is strategically important but the 2028 call is not yet published.
+- **Erasmus Mundus**: excellent package if selected, but scholarship competition is very high.
 
-## Expanded Gate-2 semantics
+This distinction matters more than nominal scholarship size.
 
-- **A - Structurally funded / near-zero residual**
-  - funding is tied closely to research admission or broadly available to admitted students.
+## Canada: funding is strong but not uniform
 
-- **B - Strongly fundable**
-  - credible full/near-full scholarship exists but requires a separate competition, nomination or renewal.
+The new discovery pass materially improves Canada's financial position.
 
-- **C - Financially resilient**
-  - low tuition or robust need-based funding keeps downside manageable.
+### University of Toronto BME MASc
 
-- **D - High-cost / scholarship dependent**
-  - unattractive without a selective award.
+For 2026/27, the published international MASc minimum stipend total starts around **CAD 44,500-46,499** depending on award tier and rises with larger awards. This is a strong admission-linked research package, but exact net personal exposure still depends on international tuition/fees and Toronto living costs.
 
-- **Deferred / cycle-dependent**
-  - financially attractive route exists only in a later cycle such as 2028.
+### Waterloo BME MASc
 
-## High-priority funding architectures already known
+Waterloo guarantees **CAD 18,000/year for two years** to full-time MASc students. That money is used toward tuition first; the university explicitly warns that it may not cover living expenses, especially for international students. Therefore Waterloo is **funded**, but not automatically financially safe.
 
-The previous audit established several useful funding patterns that remain valid and should be reused in the expanded pass:
+### McMaster BME MASc
 
-- Hong Kong research postgraduate studentships;
-- NUS / NTU Singapore research scholarships;
-- KAIST scholarship / KGPS;
-- POSTECH TA/RA support;
-- Erasmus Mundus scholarships;
-- Taiwan Scholarship + university awards;
-- Italy need-based / merit routes;
-- MEXT;
-- Australia Awards;
-- Canadian funded thesis Master's packages;
-- KAUST Fellowship;
-- Weizmann MSc fellowship;
-- selected US research MS assistantships.
+Full-time MASc students receive department/supervisor funding for 24 months. The current public page does not state a single package amount, so offer-level economics still need audit.
 
-But **no working shortlist from the old Gate-2 pass should be treated as current** until all 115 Likely routes have been audited under the new profile.
+### Guelph Bioinformatics MSc
 
-## Next pass
+A funding package is included with the thesis offer, but the package varies by the supervisor's home department. This makes PI choice part of financial due diligence.
 
-Expanded Gate 2 should proceed by funding architecture, not by prestige:
+### Dalhousie BME MASc
 
-1. structurally funded research Master's / MPhil / MASc;
-2. Australia Awards 2028-compatible programmes;
-3. named full scholarships;
-4. low-tuition public systems;
-5. expensive coursework programmes last.
+All graduate students are funded; current guaranteed post-tuition/fee take-home is about **CAD 16,000-17,000/year** in years 1-2. This is useful but should be checked against Halifax living costs.
 
-The later Profile Differentiation Gate will then ask whether the financially viable programme actually amplifies the applicant's cross-layer profile.
+Canada therefore deserves its own funding sub-model rather than one generic "funded research Master" label.
+
+## Australia 2028 is now a strategic full-funding branch
+
+The current Australia Awards structure covers:
+
+- full academic fees;
+- economy travel;
+- visa-related costs;
+- establishment allowance;
+- regular contribution to living expenses;
+- OSHC;
+- supplementary academic support;
+- fieldwork support for eligible research/coursework programmes.
+
+Current Vietnam rules also require at least **two years back in Vietnam after completion**.
+
+For this applicant, that obligation is acceptable in principle because returning to Vietnam can support continued healthcare/genomics R&D, scientific software, publications, and collaboration with an existing Australia-linked company network.
+
+However, **2028 terms are still TBA**. Every Australia programme in the table should be interpreted as:
+
+> financially strong **if AAS 2028 funds that course and the scholarship is won**.
+
+It is not structural programme funding.
+
+## High-value new funding discoveries
+
+### KAUST Bioengineering - Bioinformatics & ML
+
+This is one of the strongest funding structures in the universe: full tuition/bench fees, housing, insurance, relocation, and MS stipend. Funding and profile-amplification are both strong enough that this programme deserves later PI-level audit.
+
+### Weizmann Computational & Systems Biology
+
+No tuition + NIS 7,000/month for 24 months. The financial architecture is excellent. The later question is profile differentiation: whether a Life Sciences degree amplifies or dilutes the engineering identity.
+
+### UNIST BME
+
+The department states full financial support for all BME graduate students, including tuition waiver, KRW 7,680,000/year support and stipend. Exact international MS offer structure still needs confirmation, but this is much stronger than the earlier generic "scholarship possible" label.
+
+### NAIST Computational Biology
+
+The 2027 MEXT International Priority Graduate Program in Information Science has **four Master's scholarships** with tuition/entrance exemption, JPY 144,000/month and airfare. Financial upside is excellent, but quota makes it a limited competitive route rather than structural admission funding.
+
+## Funding decision rule going forward
+
+Gate 2 should eventually assign each Likely programme a conditional residual-cost scenario:
+
+```text
+tuition
+- admission-linked funding
+- competitive scholarship (probability kept separate)
++ living
++ mandatory fees / insurance
+= expected personal exposure
+```
+
+Do not collapse:
+
+- guaranteed funding;
+- common-but-variable research funding;
+- competitive scholarship;
+- tuition-only waiver;
+
+into one label called "funded".
+
+## Next deep-audit wave
+
+The next funding pass should focus on unresolved programmes with high **Amplification Principle** value:
+
+1. Canada: UBC, UAlberta BME, uOttawa/Carleton BME;
+2. Korea/Japan: UNIST exact package, POSTECH 2027 package, Hokkaido/Kyushu/Kyutech funding;
+3. Taiwan: NTU/NTHU/NYCU scholarship residual cost;
+4. Europe: Bern, TU Graz, Spain Health Data Science, Italy computational/bioengineering routes;
+5. Australia: map which 2028 routes are likely AAS-compatible once the 2028 country profile is published.
+
+Profile Differentiation should begin only after this financial architecture pass is sufficiently mature.
