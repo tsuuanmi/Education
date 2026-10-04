@@ -1,14 +1,45 @@
-# Gate 1 - Formal Eligibility
+# Gate 1 - Formal Eligibility Audit
 
-## Status
+Gate 1 asks only:
 
-**Gate 1 is closed for the expanded Discovery 2.0 universe.**
+> **Can the applicant plausibly satisfy the published formal academic entry requirements?**
 
-The canonical universe now contains **165 application records** after merging the original universe with Discovery Phase 2.0.
+It does not predict admission, supervisor interest, funding success or research fit.
 
-Discovery duplicates and subtracks were not double-counted. Historical placeholder rows are retained only for provenance and marked Superseded.
+## Canonical applicant evidence
 
-## Final expanded distribution
+- BEng / Honors Program in Mechatronics Engineering, UET-VNU
+- GPA 3.47 / 4.0; Distinction
+- mathematics, linear algebra, probability/statistics and computational methods
+- automatic control
+- electronics, measurement and sensors
+- programming, microprocessors/controllers and AI
+- A+ EEG thesis
+- physiological/neural-signal R&D at Earable
+- medical-imaging internship experience at VinBigData
+- several years of genomics R&D at GeneStory
+- public research outputs and open-source DNA scientific software
+
+Known formal-course risks:
+
+- no clearly titled Signals & Systems / DSP course;
+- no obvious formal cell/molecular biology sequence;
+- no chemistry sequence;
+- not a conventional CS undergraduate curriculum with OS / algorithms / databases depth.
+
+Professional work is selection evidence, but it is not treated as a substitute for a hard Bachelor-credit requirement unless the programme explicitly allows experience or bridging.
+
+## Status semantics
+
+- **Likely** - no known hard formal blocker.
+- **Conditional-high-risk** - a specific degree-equivalence, grade, language, or formal-course mapping could block direct entry.
+- **Unlikely** - the current profile appears to miss a published hard prerequisite.
+- **Not-actionable** - the row is not a concrete actionable route.
+- **Superseded** - retained only for provenance.
+
+## Canonical result after Discovery Phase 2.0
+
+The opportunity universe now contains **165 application-distinct records**.
 
 | Gate-1 status | Count |
 | --- | ---: |
@@ -19,112 +50,65 @@ Discovery duplicates and subtracks were not double-counted. Historical placehold
 | Superseded | 5 |
 | **Total** | **165** |
 
-## Gate definition
+There are no Unknown or generic Conditional states.
 
-Gate 1 evaluates formal academic admissibility only:
+The detailed audit of the 87 new/replacement routes is in `docs/master/gate-1-expanded.md`.
 
-- qualifying Bachelor discipline;
-- GPA / foreign-degree equivalence;
-- hard prerequisite-credit baskets;
-- direct-entry vs preparatory route;
-- programme-specific academic preparation.
+## What changed after the second discovery phase
 
-IELTS/TOEFL, GRE, entrance examinations, supervisor pre-contact, scholarship competition and general selectivity are not by themselves Gate-1 blockers when the academic background is compatible.
+The first Gate-1 pass was biased toward BME, neurotechnology and engineering programmes.
 
-## Applicant lens after Discovery 2.0
+Discovery Phase 2.0 expanded the target identity to:
 
-The search objective is now **systems-oriented computational / dry-lab Research Engineering for biological and healthcare data**, not BCI or genetics as fixed domains.
+> **systems-oriented computational / dry-lab Research Engineering for biological and healthcare data**
 
-The applicant's cross-layer trajectory is:
+This added programmes in:
 
-```text
-Mechatronics
--> sensors / control / physical systems
--> Earable: physiological signals
--> VinBigData: medical imaging
--> GeneStory: genomic data
--> DNA: scientific software / pipelines
-```
+- Computational Bioengineering;
+- Biological Information / Bioinformatic Engineering;
+- Biomedical and Health Data Science;
+- Medical / Biomedical Informatics;
+- Systems / Quantitative Biology;
+- broad BME with computational-data tracks;
+- Information / Systems Engineering applied to living systems;
+- funded thesis Master's programmes with cross-modality biomedical research.
 
-The strongest formal fits are often programmes where engineering is an intended starting identity and biological/medical literacy is added through curriculum or research.
+The broader search did **not** relax formal eligibility. Hard CS, biology, chemistry, physics and degree-equivalence requirements are still enforced at Gate 1.
 
-## Important formal-fit patterns
+## Important hard-mismatch patterns
 
-### Engineering-first interdisciplinary routes are usually cleaner
+Examples in the expanded universe:
 
-Discovery 2.0 found many programmes where the current background is a natural entry point rather than a deficiency.
+- programmes requiring a full molecular-biology or biology credit basket;
+- programmes requiring 25-30+ ECTS/credits of formal Computer Science;
+- programmes requiring OS + algorithms/data structures + databases;
+- programmes with non-bridgeable chemistry/biology requirements;
+- programmes without a usable English-language Master's route.
 
-Examples include:
+These remain Unlikely or Conditional-high-risk even when the research topic is attractive.
 
-- Imperial Computational Bioengineering;
-- KAUST Bioengineering;
-- MBZUAI Computational Biology;
-- University of Toronto / Waterloo / McMaster BME research degrees;
-- Bern BME;
-- QUT Biomedical Systems & Technology;
-- NAIST Computational Biology;
-- CUHK Translational Genomics;
-- UNIST BME;
-- UCT Biomedical Engineering.
+## Important positive pattern
 
-### Conventional CS / biology routes often impose hard reconstruction costs
+The profile is most formally robust when the programme treats engineering as a valid starting point and teaches biological/health context inside the degree.
 
-Several otherwise attractive programmes are Unlikely because they require formal undergraduate credits that professional experience cannot safely replace.
+Examples include broad Biomedical Engineering research degrees, Computational Bioengineering, Bioinformatic Engineering, and interdisciplinary biomedical-information programmes.
 
-Examples include:
+That pattern supports the project's **Amplification Principle**:
 
-- DTU Bioinformatics - molecular-biology credit;
-- University of Copenhagen Bioinformatics - biology/bioinformatics/ML baskets;
-- FU Berlin Bioinformatics - CS + math/stats + biology/chemistry baskets;
-- Utrecht Bioinformatics & Biocomplexity - molecular biology + lab + life-science preparation;
-- Trento Quantitative & Computational Biology - biology + chemistry ECTS;
-- University of Milan Quantitative Biology - hard biology CFU;
-- Clemson BDSI - one year college biology;
-- University of Toronto Data Science for Biology - advanced CS + upper-level biology;
-- SFU Computing Science - OS + DSA + databases;
-- McGill BBME - university-level general life-science course.
+> The Master's should add rigor and biological literacy without erasing the value of Mechatronics, sensing, systems thinking, software and prior healthcare-data R&D.
 
-This supports the **Amplification Principle**: the Master's should deepen the hybrid profile rather than force the applicant to reconstruct a conventional CS or biology undergraduate identity.
+## Gate 1 is closed again
 
-## Conditional-high-risk meaning
+Broad discovery is frozen and the expanded canonical universe has been promoted.
 
-The 32 Conditional-high-risk records remain because a **real formal uncertainty** still exists, such as:
+Do not resume generic programme search by default.
 
-- hard CS-credit mapping;
-- hard biology/informatics balance;
-- direct entry vs pre-Master;
-- foreign-degree equivalence;
-- department-specific prerequisite mapping.
+New programmes should only be added when triggered by:
 
-These records are still valid opportunities, but should not be treated as equivalent to Likely routes until their blocker is resolved.
+- a genuinely new programme architecture;
+- a named high-value scholarship;
+- a specific PI/lab;
+- a new 2028 call;
+- materially better evidence than an existing route.
 
-## Canonical data
-
-The expanded universe is now canonical in:
-
-- `data/master/opportunities.csv`
-- `data/master/eligibility.csv`
-
-Discovery provenance remains available in:
-
-- `data/master/discovery-systems-bio.csv`
-- `data/master/discovery-merge-audit.csv`
-- `data/master/discovery-promotion-map.csv`
-
-## Next gate
-
-Proceed to **Expanded Gate 2 - Funding / net personal cost**.
-
-Funding must be modelled as:
-
-```text
-tuition
-- structural / guaranteed funding
-- realistic scholarship support
-+ living costs
-+ mandatory fees / insurance
-+ service / return obligations
-= residual personal exposure
-```
-
-No shortlist should be frozen before funding and Profile Differentiation are both evaluated.
+The next canonical stage is **Expanded Gate 2 - Funding / Net Cost**, starting with the **115 Likely** routes. Conditional-high-risk routes should receive funding effort only when their financial/research upside justifies resolving the formal blocker.
