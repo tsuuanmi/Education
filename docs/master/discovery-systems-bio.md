@@ -410,3 +410,98 @@ Interdisciplinary entry by design
 ```
 
 Programmes that encode this structure institutionally are more promising than programmes where the applicant must explain why an unusual background belongs.
+
+
+## Wave 5 - Gulf, New Zealand, Israel, and another Canadian cross-layer route
+
+This wave searched underrepresented regions specifically for programmes where **multiple healthcare-data modalities coexist inside an engineering/computational research structure**.
+
+### KAUST Bioengineering - Bioinformatics and Machine Learning
+
+KAUST is a major discovery for both positioning and finance.
+
+Its new Bioengineering Master's has three specialisations: Biodevices & Biomaterials, Synthetic Biology, and **Bioinformatics & Machine Learning**. The latter explicitly combines computational methods with biological-data analysis for genomics and personalized medicine.
+
+The surrounding KAUST ecosystem is even more aligned with the target role:
+- Computational Bioscience Research Center develops computational methods, tools and resources for biological discovery;
+- the Bioinformatics Platform focuses on HPC, databases, FAIR data management, automated workflows, short/long-read processing, spatial omics and tool development.
+
+Financially, all admitted MS students normally receive the KAUST Fellowship: tuition/bench fees, housing, insurance, relocation and an MS stipend worth about USD 20,000/year.
+
+This is one of the strongest examples found of:
+```text
+engineering identity
++ biological-data systems
++ software/workflows
++ research infrastructure
++ full structural funding
+```
+
+### MBZUAI MSc Computational Biology
+
+MBZUAI's new MSc accepts STEM graduates including electrical/computer engineering, mathematics and physics and explicitly spans genomics, medical imaging, epidemiology and personalized medicine.
+
+This cross-modality scope is highly aligned with the applicant's actual experience.
+
+Funding needs careful wording. Earlier programme announcements described the Computational Biology cohorts as fully funded, but the current Fall-2027 graduate admissions page states that MSc funding depends on securing a faculty-sponsored RA/TA or approved government scholarship. The current admissions policy should be used at the later funding gate.
+
+### University of Auckland - ME Bioengineering
+
+Auckland Bioengineering Institute is a strong systems-oriented research environment. The 2027 ME plan includes modern control, DSP, mathematical modelling, computational algorithms for signal processing, computational engineering, whole-organ modelling and biomedical imaging, followed by a large thesis.
+
+It fits the applicant's systems identity very well, but finance is substantially weaker for international students: the main dedicated ABI Master's scholarships are restricted to New Zealand citizens/permanent residents. Keep it in discovery because funded projects may exist, but do not assume the programme is financially viable.
+
+### Tel Aviv University - Biomedical Engineering MSc
+
+The English research MSc combines:
+- computational and systems biology;
+- physiological signal processing;
+- biomedical image processing;
+- numerical modelling of physiological systems;
+- data science / AI;
+- devices and clinical translation.
+
+Accepted international students currently have tuition covered, with additional scholarships available.
+
+Conceptually, this is unusually close to the applicant's cross-modality background.
+
+### Weizmann - Computational and Systems Biology
+
+This is a useful counterexample to the concern about a Life Sciences degree.
+
+The track explicitly welcomes applicants from engineering, CS, mathematics and physics, not only biology. It uses computational coursework, three rotations and thesis research across diverse biological areas.
+
+All full-time MSc students pay no tuition and receive a 24-month fellowship; the current regular MSc fellowship is NIS 7,000/month.
+
+The later Profile Differentiation Gate should decide whether the Life Sciences degree label strengthens biological literacy enough to justify moving away from an engineering-labelled degree.
+
+### McGill Biological and Biomedical Engineering MSc
+
+This programme may be more strategically important than the McGill CS/Bioinformatics options already staged.
+
+The thesis MSc spans:
+- biomodelling;
+- biosignal processing;
+- medical imaging;
+- bioinformatics and computational biology;
+- biological networks;
+- sensors;
+- machine learning.
+
+All thesis Master's students currently receive a guaranteed minimum stipend of CAD 24,000/year for two years.
+
+It is a good example of a programme where the applicant does **not** need to choose between signals, imaging and genomics before entering.
+
+## Updated modality map
+
+The applicant now has real experience across three healthcare-data modalities:
+
+```text
+physiological signals  <- Earable
+medical imaging        <- VinBigdata
+genomic data           <- GeneStory
+```
+
+The recurring expertise is not one modality. It is the systems layer that turns raw biological/health measurements into validated computational outputs.
+
+Future discovery should therefore continue to search for programmes that make **modality breadth** an advantage rather than forcing premature specialization.
