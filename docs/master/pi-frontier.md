@@ -188,3 +188,19 @@ For Tier 0 and Tier 1 candidates, the next audit should answer five concrete que
 5. Is funding attached to the PI/lab/programme, and what is the application/outreach timing?
 
 This turns PI fit from a thematic label into an actionable application decision.
+
+
+## Environment preference adjustment
+
+Do not continue Korea/Japan PI outreach by default despite strong academic matches already identified.
+
+The next PI deep-audit sequence is now:
+
+1. NUS BME;
+2. NTU EEE;
+3. HKUST Bioengineering;
+4. University of Toronto BME;
+5. KAUST Bioengineering;
+6. selected European research/thesis environments.
+
+The completed UNIST/NAIST/KAIST PI research remains in the repository for provenance and may be reactivated only if the applicant's geography preference changes.
