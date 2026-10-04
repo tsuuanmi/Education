@@ -117,3 +117,45 @@ Priority order:
 4. partial scholarship only when residual cost is clearly manageable.
 
 Scholarships with mandatory return-home obligations must be recorded explicitly, but they are not automatically negative. Evaluate whether the required return period can advance the Research Engineer trajectory.
+
+
+## Competitive positioning
+
+The applicant should not be presented as:
+
+- a Mechatronics graduate trying to become a generic software engineer;
+- a software applicant trying to catch up with CS majors;
+- a genomics worker trying to become a molecular biologist;
+- a neurotechnology applicant competing mainly on neuroscience depth.
+
+The strongest positioning is a **cross-layer biological systems engineer**:
+
+```text
+physical measurement / hardware awareness
++ systems and control thinking
++ software and data pipelines
++ quantitative modelling / inference
++ real biological-data experience
++ collaboration with domain scientists
+```
+
+The applicant does not need to be the deepest expert in every biological modality. The intended role is to collaborate with domain specialists and build reliable systems, pipelines and tools that convert biological evidence into validated insight.
+
+### Programme-choice implication
+
+A Master's should make this hybrid profile more legible and valuable.
+
+Ideal programmes explicitly bridge at least two or three of:
+
+- engineering / sensing / instrumentation;
+- computation / algorithms / software;
+- statistics / modelling / inference;
+- biological / biomedical data;
+- systems thinking / quantitative biology;
+- substantial research or thesis work.
+
+A pure Computer Science Master's is not the default target because admission and differentiation may be weaker against applicants with full CS undergraduate preparation, and because it underuses the applicant's biological and hardware/system experience.
+
+Similarly, a biology/genetics/neuroscience Master's that assumes deep formal domain coursework can erase the engineering advantage and create unnecessary prerequisite risk.
+
+The preferred degree sits **between those poles**, where interdisciplinarity is part of the programme design rather than something the applicant must explain away.
