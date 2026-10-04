@@ -16,6 +16,47 @@ The desired methodological core is:
 
 BCI / neurotechnology is currently the preferred research application, but the degree should preserve enough methodological breadth that genomics experience remains useful.
 
+## Search principles
+
+### Degree-title agnostic
+
+The degree does **not** need to be named Biomedical Engineering.
+
+Search and retain any programme whose curriculum, labs, thesis structure, and technical depth can support the target Research Engineer identity. A strong Electrical Engineering, Signal Processing, Systems & Control, Robotics, Medical Engineering, Life Sciences Engineering, or research-Master's programme may be a better fit than a degree titled Biomedical Engineering.
+
+The primary question is:
+
+> Can this programme develop strong capability in biological measurement, signals/data, estimation/inference, systems, experimentation, and research-to-product translation?
+
+The programme title is secondary.
+
+### Expand first, filter later
+
+Do not shortlist during discovery.
+
+The research flow is:
+
+```text
+Opportunity Universe
+        |
+        v
+Gate 1 - Formal eligibility
+        |
+        v
+Gate 2 - Financial feasibility / net personal cost
+        |
+        v
+Gate 3 - Scholarship, bond, immigration, and career constraints
+        |
+        v
+Gate 4 - Research and career fit
+        |
+        v
+Application portfolio
+```
+
+Prestige is only a tie-breaker after these gates.
+
 ## Search space
 
 Degree families:
