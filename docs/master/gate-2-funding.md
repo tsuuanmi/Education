@@ -155,3 +155,101 @@ The next funding pass should focus on unresolved programmes with high **Amplific
 5. Australia: map which 2028 routes are likely AAS-compatible once the 2028 country profile is published.
 
 Profile Differentiation should begin only after this financial architecture pass is sufficiently mature.
+
+
+## Deep-audit wave 2 - Canada, Korea, Taiwan, and low-cost Europe
+
+### University of Alberta BME MSc
+
+The thesis-based MSc is materially stronger financially than the first-pass table suggested.
+
+The department states that applicants need a supervisor willing to fund them before applying and publishes a **CAD 25,000 minimum annual funding** level for full-time thesis students. The graduate manual also states that thesis students must be funded throughout the programme, with the supervisor responsible for the stipend.
+
+This moves UAlberta BME from weak/unknown to a **guaranteed research package**. The remaining question is whether CAD 25k leaves enough after international tuition and Edmonton living costs.
+
+### POSTECH
+
+The official 2026 regular Master's TA/RA package is now encoded precisely:
+
+- KRW 884,000/month tuition component;
+- KRW 966,000/month living component;
+- KRW 1.85m/month total.
+
+The university explicitly says actual amounts vary by lab and advisors may provide additional support.
+
+Therefore POSTECH remains **research-funded conditional**, not admission-guaranteed in the same sense as KAUST.
+
+### Taiwan funding is stronger than a generic "scholarship possible" label, but still award-dependent
+
+**NTHU**
+
+Current international-student scholarship:
+
+- Category A: full tuition + credit-fee waiver **plus NT$5,000/month** for Master's;
+- Category B: full tuition + credit-fee waiver only.
+
+The award is applied for with admission and can continue for the Master's award period subject to rules.
+
+**NTU Taiwan**
+
+The current Outstanding International Graduate Student Scholarship provides a tuition waiver capped around **NT$65,000** and **NT$8,000/month** for Master's under current university materials. Fees such as insurance/accommodation remain outside the waiver.
+
+**NYCU**
+
+The international scholarship is more flexible and potentially stronger. Current materials show Master's awards of up to **NT$22,000/month and/or tuition waiver**; award plans can instead charge local tuition or provide stipend-only support.
+
+Taiwan should therefore be modelled as several conditional scenarios, not a single funding package.
+
+### TU Graz BME
+
+TU Graz is now confirmed as a genuine low-cost hedge:
+
+- non-EU tuition: **€726.72/semester**;
+- student-union fee: €26.20/semester.
+
+The university cites average Austrian student spending of roughly **€1,300/month** in 2025, so living — not tuition — is the main financial exposure.
+
+### URV-led Health Data Science
+
+For non-EU students the current price is **€46.11/ECTS**, plus a first-time €218.15 foreign-degree academic tax and other general fees. Because the degree is online, the relevant financial scenario may allow remaining in Vietnam rather than paying European living costs.
+
+This makes it economically unusual: low tuition and potentially near-zero relocation exposure, but the Profile Differentiation / research-network gate must later decide whether online delivery gives enough value.
+
+### University of Bern BME
+
+From Fall 2026 a typical non-Swiss student without prior Swiss residence pays:
+
+- CHF 850 regular tuition;
+- CHF 1,700 additional non-Swiss fee;
+- total **CHF 2,550/semester**, plus semester fees.
+
+Tuition is manageable relative to many UK/US programmes, but Swiss living costs remain the dominant risk and no structural Master's stipend has been identified.
+
+## Updated Gate-2 interpretation
+
+The funding architecture is becoming more informative than geography:
+
+```text
+Admission-linked / guaranteed research funding
+  -> strongest financial robustness
+
+Research package tied to supervisor/offer
+  -> strong, but exact net package matters
+
+Competitive full scholarship
+  -> excellent if won; probability separate
+
+Low public tuition
+  -> useful hedge; living-cost exposure remains
+
+Tuition-only / high-cost scholarship-dependent
+  -> weak unless profile fit is exceptional
+```
+
+The next unresolved financial questions with highest information value are now:
+
+1. UBC Bioinformatics current MSc package;
+2. uOttawa/Carleton BME MASc funding;
+3. exact 2027 UNIST stipend composition;
+4. Japanese non-MEXT routes (Hokkaido, Kyushu, Kyutech);
+5. Italy need/merit routes under the expanded systems-bio scope.
