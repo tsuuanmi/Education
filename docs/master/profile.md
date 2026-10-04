@@ -32,6 +32,12 @@ Known transcript risks:
 
 Deep-tech wearable neurotechnology work around human sleep, cognitive focus, physiological / neural sensing, and product-oriented R&D.
 
+### VinBigdata
+
+Previous internship experience in medical imaging.
+
+This adds a third real healthcare-data modality to the profile: medical images, alongside physiological signals from Earable and genomic data from GeneStory. The strategic value is not deep specialization in all three modalities; it is repeated exposure to how different biological/health measurements are acquired, represented, processed, validated, and translated into usable outputs.
+
 ### GeneStory
 
 Current R&D role in genomics, including public research outputs.
@@ -159,3 +165,29 @@ A pure Computer Science Master's is not the default target because admission and
 Similarly, a biology/genetics/neuroscience Master's that assumes deep formal domain coursework can erase the engineering advantage and create unnecessary prerequisite risk.
 
 The preferred degree sits **between those poles**, where interdisciplinarity is part of the programme design rather than something the applicant must explain away.
+
+
+## Cross-modality healthcare-data experience
+
+The applicant has now worked across three materially different healthcare-data modalities:
+
+```text
+Earable      -> physiological / neural signals
+VinBigdata   -> medical imaging
+GeneStory    -> genomic / sequencing-derived data
+```
+
+Across them, the recurring pattern is:
+
+```text
+raw measurement / lab output
+-> data representation and QC
+-> processing / transformation
+-> modelling / inference
+-> validation
+-> usable scientific or product output
+```
+
+This repeated systems pattern is more important than claiming deep expert-level biological knowledge in every modality.
+
+The Master's should therefore strengthen the applicant's ability to build **healthcare / biological data systems across modalities**, while teaching enough domain science to collaborate effectively with specialists.
