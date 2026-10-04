@@ -88,21 +88,25 @@ Statistical and biomedical signal processing plus machine learning. This is the 
 
 ### NUS ECE
 
-**Primary: Jerald Yoo**
+A current-faculty correction materially changes the shortlist.
 
-Energy-efficient wearable healthcare, body-area networks, embedded machine learning and biomedical SoCs. Excellent overlap with Earable-style product R&D.
+**Do not target Jerald Yoo at NUS.** A 2025 NUS seminar identifies him as an Associate Professor at Seoul National University since 2024. The NUS ICES research-area page still contains his older NUS profile, so it is not reliable for current-supervisor availability.
 
-**Secondary: Nitish Thakor**
+**Primary: Ghim Wei Ho**
 
-Canonical neuroengineering fit: medical instrumentation, brain-signal processing, neural interfaces and prosthetic systems.
+Her current ECE work includes a 2026 motion-robust hydrogel wearable platform combining physiological sensing with AI for fatigue/mental-health monitoring. This maps unusually well to the applicant's Earable experience, especially the real-world signal-quality and validation problem.
+
+**Secondary: Changhuei Yang**
+
+Returned to NUS in 2026 as Professor in ECE/BME. His work spans computational imaging, deep-neural image analysis, non-invasive brain-activity monitoring and biomedical measurement systems. Strong scientific-engineering fit, though more imaging/optics than EEG.
 
 **Methods/data fallback: Mehul Motani**
 
 Machine learning, biomedical informatics, wireless/sensor networks and IoT. Useful if the proposal moves toward data/inference rather than neural-interface hardware.
 
-A caution: John Ho is intellectually attractive for wireless medical devices, but his current NUS staff page marks him as **on no-pay leave**, so he should not be a primary 2027 outreach target until availability is confirmed.
+John Ho remains intellectually attractive for wireless medical devices, but his current NUS staff page marks him as **on no-pay leave**, so he should not be a primary 2027 outreach target until availability is confirmed.
 
-**Conclusion:** excellent programme, but supervisor availability should be verified earlier than at HKUST/KAIST.
+**Conclusion:** NUS ECE remains valuable, but its current PI fit is less directly BCI-centric than the stale ICES page initially suggested.
 
 ## A-tier PI density
 
@@ -182,7 +186,7 @@ If only one initial outreach is sent per programme, use:
 | CUHK BME | Raymond Tong | EEG/BCI + neurorehabilitation robotics |
 | HKU ECE | Shiming Zhang | wearable health sensing + embedded intelligence |
 | HKUST ECE | Yiwen Wang | BMI + adaptive neural signal processing |
-| NUS ECE | Jerald Yoo | low-power wearable healthcare + embedded ML |
+| NUS ECE | Ghim Wei Ho | motion-robust wearable physiological sensing + AI |
 | NTU EEE | Sunwoo Lee | active neural recording + physiological microsystems |
 | KAIST BBE | Chul Kim | wearable EEG + closed-loop neural interfaces; explicit openings |
 | POSTECH EE | Sungmin Park | neural/medical devices + wearable monitoring + translation |
@@ -198,12 +202,13 @@ Tier S
   NTU EEE
 
 Tier A+
-  NUS ECE
   CUHK BME
   POSTECH EE
 
 Tier A
+  NUS ECE
   HKU ECE
+
 ```
 
 This does **not** replace the application execution order. CUHK and HKU remain urgent because their main rounds close earlier.
