@@ -283,3 +283,53 @@ The most career-portable programme may have a title such as:
 while the **thesis** is on genomics, physiological data, computational biology or another biological system.
 
 Discovery therefore continues to search both from the degree side and from the lab/research-area side.
+
+
+## Positioning filter - use the profile asymmetry as an advantage
+
+Discovery Phase 2.0 now has an additional question:
+
+> Does this programme make the applicant's mixed background look unusually useful, or merely underprepared relative to a more conventional applicant?
+
+### High-value positioning archetypes
+
+**1. Engineering-major bioinformatics**
+
+Example: KU Leuven Master of Bioinformatics has separate Science, Bioscience Engineering and Engineering majors plus a reorientation package that supplies missing disciplinary foundations. This is structurally attractive because an engineering entrant is expected rather than anomalous.
+
+**2. Bioelectronics + bioinformatics**
+
+Example: NTU Taiwan Biomedical Electronics and Bioinformatics explicitly integrates Electrical Engineering and Information Engineering and spans biomedical signal processing, sensors, bioinformatics, systems biology and medical informatics. This is unusually close to the full profile.
+
+**3. Broad bioengineering with computational + physical systems branches**
+
+Example: KAIST Bio & Brain Engineering places Bioinformatics/Systems Biology, Bioelectronics, BioNano/MEMS, Neural Engineering and Biomedical Imaging inside one graduate ecosystem. This lets an engineering applicant work across biological modalities without choosing a single identity prematurely.
+
+**4. Life-science technology programmes organised around methods**
+
+Example: Aalto Life Science Technologies includes Bioinformatics & Digital Health and Biomedical Engineering in the same technology degree. The Bioinformatics major emphasises probabilistic modelling, ML, computational method development and real biomolecular/health data rather than narrow molecular training.
+
+**5. Computing/Data research degrees with a strong biological thesis ecosystem**
+
+Example: HKU Computing & Data Science MPhil can host bioinformatics research while the degree identity remains computing/data science. This archetype is attractive only when Gate 1 and supervisor fit are strong enough to offset direct competition with CS applicants.
+
+### Lower-value positioning archetypes
+
+- generic Computer Science coursework Master's with no biological research structure;
+- generic Data Science Master's where biology is only an elective/application example;
+- genomics/genetics Master's dominated by molecular/wet-lab prerequisites;
+- neuroscience Master's where engineering/computation is peripheral;
+- hardware/EE Master's with no plausible biological-data or biomedical research ecosystem.
+
+These are not automatically excluded during discovery, but they should receive a lower **positioning value** later unless they offer exceptional funding or a specific lab fit.
+
+### New future Gate
+
+After discovery completeness and formal eligibility, add an explicit **Profile Differentiation Gate**:
+
+```text
+Does the programme amplify the applicant's cross-layer profile,
+or flatten it into a weaker version of a conventional CS / Bio / EE applicant?
+```
+
+This gate should be evaluated before final application prioritisation.
