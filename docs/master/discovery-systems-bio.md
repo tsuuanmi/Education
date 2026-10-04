@@ -679,3 +679,155 @@ Engineering is a valid starting identity
 ```
 
 This is exactly the Master's-as-amplifier model.
+
+
+## Wave 8 - Japan/Korea information-engineering routes, Switzerland, and Australia healthcare systems
+
+Wave 8 targeted the remaining under-covered programme architecture:
+
+> **systems/information engineering first, biological or healthcare data second**
+
+This produced several candidates that are unusually aligned with the applicant's desired role.
+
+### Hokkaido University - Bioengineering and Bioinformatics
+
+Hokkaido's Graduate School of Information Science and Technology contains a course that deliberately spans both ends of the applicant's experience.
+
+Official research/curriculum covers:
+- genome informatics;
+- structural/functional bioinformatics and biological databases;
+- gene-expression networks;
+- biosensing;
+- MRI and bioimaging;
+- neural engineering;
+- medical informatics and medical systems.
+
+This is a high-value amplifier because the department is not merely a genomics programme with some coding. It combines information/electronics engineering with biological systems from gene to individual scale.
+
+### NAIST - Computational Biology
+
+NAIST's Computational Biology programme explicitly integrates Information Science and Bioscience and names both **medical imaging data** and large-scale data on genes, proteins and metabolism.
+
+The programme is especially interesting financially for 2027: the Division of Information Science has a MEXT International Priority Graduate Program with four Master's scholarships, currently covering JPY 144,000/month, tuition/entrance-fee exemption and airfare.
+
+Prospective international Master's applicants must secure a scheduled laboratory assignment before the entrance examination, so supervisor discovery will matter.
+
+### Kyushu University - Systems Life Sciences
+
+Kyushu explicitly explains the word **Systems** in its school name: the programme combines engineering, biology, information science and medical research to study life from multiple interacting perspectives.
+
+Available routes include Bioinformatics, Life Engineering and Medical Life Sciences, and the awarded Master's can include Engineering depending the path.
+
+This is philosophically one of the closest Japanese matches to the applicant's systems identity.
+
+### Kyoto University - Systems Science
+
+Kyoto's Systems Science Course is not a biological degree. That is precisely why it belongs in discovery.
+
+The course teaches analysis, design, control, decision making, simulation, applied mathematics, software and hardware for complex systems. Its Systems Informatics division includes:
+- Integrated Systems Biology;
+- Biocybernetics / biomedical engineering;
+- biomedical and medical information systems.
+
+This is a pure example of a broad systems degree where biology/medicine is one complex-system research domain.
+
+### Kyutech - Biomedical Informatics
+
+Kyutech may be the most literal match to the target professional role found in Japan.
+
+The graduate curriculum includes:
+- Computational Genomics;
+- Systems Biology;
+- Quantitative Biology;
+- Bioinformatics and Biochemical Systems Engineering;
+- Biomedical Informatics;
+- Metabolic Systems Engineering;
+- Computational Synthetic Biology;
+- Neuroscience.
+
+Programme material describes a goal of producing **system engineers and data analysts** capable of clinical and genomic data analysis for medical-device, chemical and software companies.
+
+That language is almost identical to the applicant's intended role.
+
+### UNIST BME
+
+UNIST's BME research areas include:
+- Biomedical Imaging;
+- Brain & Cognitive Engineering;
+- Genomics & Bioinformatics;
+- Digital Healthcare.
+
+Current graduate curriculum includes Advanced Genomics, computational imaging, programming for digital healthcare, machine-learning methods for neuroengineering and Master's Research. The department conducts all lectures in English and currently advertises tuition exemption and living support.
+
+UNIST is important because the degree remains Biomedical Engineering while supporting all three data modalities already present in the applicant's profile.
+
+### University of Basel / FHNW - Joint BME
+
+Basel's Joint MSc is explicitly designed for mixed prior backgrounds and assigns either biomedical or engineering foundations based on the student's previous training.
+
+Current research/thesis environment spans:
+- data-driven modelling;
+- medical imaging;
+- breath metabolomics;
+- genetic determinants;
+- AI-based forensic image analysis;
+- massive-scale single-cell imaging.
+
+It is another strong example of a programme where modality breadth is normal rather than a narrative problem.
+
+### EPFL Life Sciences Engineering - reframed
+
+EPFL LSE was previously viewed mainly through Gate-1 biology risk. Discovery Phase 2.0 should still retain it because the **Biological Data Science** specialisation is almost a direct expression of the target methods identity.
+
+Current courses include:
+- genomics and bioinformatics;
+- applied biomedical signal processing;
+- biostatistics;
+- systems biology;
+- deep learning in biomedicine;
+- bioimage informatics;
+- digital epidemiology;
+- sensors;
+- neural signals;
+- extensive lab immersions.
+
+The formal biology-background risk remains for the later gate; discovery should not erase the programme before that audit.
+
+### Australia beyond Bioinformatics
+
+**QUT Biomedical Systems and Technology** is an especially clean admission-positioning candidate. The programme explicitly accepts Mechatronics Engineering and trains engineers to integrate big data and AI in healthcare, with a research/industry capstone.
+
+**University of Sydney Digital Health and Data Science** explicitly lists Engineering as a cognate admission discipline and combines health/data-science cores with a capstone. It may later score below engineering-labelled programmes on differentiation, but it belongs in the opportunity universe.
+
+**Monash Health Data Analytics** has deliberately broad entry and trains statistics, programming, ML, modelling and health-data analysis, including a research-project option. Again, the later differentiation gate should decide whether it amplifies the systems/hardware side enough.
+
+## Important negative discovery
+
+TUM's old MSc Biomedical Computing appears frequently in search because its curriculum was highly relevant: medical data, imaging, ML, software and clinical projects. However, TUM's current official page states that the programme is **being discontinued and applications are no longer possible**.
+
+It is therefore not added to the staging opportunity CSV.
+
+This is a useful reminder that Discovery Phase 2.0 should keep an archive of attractive-but-non-actionable patterns without mistaking them for application opportunities.
+
+## Wave 8 lesson
+
+The strongest Japanese discoveries sharpen the target identity further:
+
+```text
+not "software engineer who happens to work in biology"
+not "biologist who can code"
+
+but:
+
+systems / information engineer
+        +
+biological and healthcare measurements
+        +
+computational pipelines / models / tools
+        +
+collaboration with domain experts
+```
+
+Hokkaido, NAIST, Kyoto Systems Science, Kyutech and UNIST each instantiate that architecture differently.
+
+At this point the discovery universe is approaching **archetype saturation**: new searches increasingly return variants of programme structures already represented. One more coverage review should focus on missing geographies or clearly missing architectures rather than continuing to add near-duplicates indefinitely.
