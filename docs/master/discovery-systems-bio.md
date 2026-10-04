@@ -505,3 +505,127 @@ genomic data           <- GeneStory
 The recurring expertise is not one modality. It is the systems layer that turns raw biological/health measurements into validated computational outputs.
 
 Future discovery should therefore continue to search for programmes that make **modality breadth** an advantage rather than forcing premature specialization.
+
+
+## Wave 6 - Canada, Switzerland, Austria, and Ireland
+
+Wave 6 focused on programmes where the applicant's existing engineering background is **explicitly expected** and the Master's adds biological/medical data context instead of treating engineering as a deficiency.
+
+### Canada - particularly strong for amplification + research funding
+
+**University of Toronto - BME MASc**
+
+The current research MASc has one of the strongest funding structures found in North America. For 2026/27, international MASc students in the funded cohort receive a guaranteed minimum package of about CAD 44,500-46,500, explicitly combining programme fees and living allowance.
+
+The BME research ecosystem is also genuinely cross-layer: current faculty work in AI/data science, computer vision and robotics for medicine, MRI, neural systems, quantitative cell biology, DNA/protein engineering and computational design.
+
+This is exactly the desired pattern:
+```text
+existing engineering breadth
++ biological/medical research context
++ thesis
++ structural funding
+```
+
+**University of Waterloo - BME MASc**
+
+Waterloo's graduate BME programme is especially attractive structurally because it is a partnership across Systems Design Engineering, Mechanical & Mechatronics Engineering, and Electrical & Computer Engineering.
+
+Research fields span:
+- biomedical signals and devices;
+- biomedical imaging;
+- biomedical informatics;
+- AI/big data/population and health systems.
+
+Full-time research students receive guaranteed minimum funding, although the exact current package still needs a dedicated audit.
+
+There is a current published-minimum inconsistency: the programme page says 75% while the BME FAQ says 80%. Use 80% conservatively until clarified.
+
+**McMaster - BME MASc**
+
+The programme deliberately handles interdisciplinary conversion in a way that matches the applicant's philosophy: engineering-background students must take Health Sciences coursework, while health/life-science students must take Engineering coursework.
+
+This is a better admission-positioning architecture than a programme that assumes the applicant already has deep BME coursework.
+
+Full-time MASc students receive department/supervisor funding for 24 months.
+
+### Switzerland - University of Bern BME
+
+Bern may be one of the best taught-Master profile amplifiers found.
+
+The specialised BME Master's explicitly admits applicants from different academic fields and uses preparation courses to bridge missing foundations.
+
+Current curriculum includes:
+- Biomedical Sensors;
+- Biomedical Signal Processing and Analysis;
+- Medical Informatics;
+- C++ / Python;
+- Deep Learning / Machine Learning;
+- Dynamical Models;
+- Medical Imaging and Image Analysis;
+- Computational Bioengineering;
+- 30-ECTS Master's thesis.
+
+The Electronic Implants major explicitly lists Mechatronics Engineering among typical backgrounds.
+
+The main downside is finance: from Fall 2026 non-Swiss students without Swiss/Liechtenstein residence at initial university entry pay CHF 2,550 per semester total, and Swiss living costs remain high.
+
+### Austria - TU Graz BME
+
+TU Graz is another unusually strong profile amplifier.
+
+The English Biomedical Engineering MSc spans specialisations in:
+- Biomedical Instrumentation & Sensors;
+- Biomedical Imaging & Sensing;
+- Computational Neuroscience;
+- Health Care Engineering;
+- Bioinformatics & Computational Medicine.
+
+This curriculum almost mirrors the applicant's experience across sensors/signals, imaging, and genomics/data.
+
+Applicants from degrees other than the local BME Bachelor undergo an admission procedure; under the current curriculum up to 22 ECTS of supplementary Bachelor-level courses can be prescribed.
+
+### Austria - TU Wien / MedUni Vienna Medical Informatics
+
+Conceptually this may be one of the closest matches to the applicant's intended role.
+
+The new English curriculum explicitly trains graduates to design, develop and integrate information systems in collaboration with bioscientists, neuroscientists, physicians and health specialists.
+
+Specialisations include:
+- Bioinformatics;
+- Neuroinformatics;
+- Public Health Informatics;
+- Mobile Health / Wearables / Assistive Technologies;
+- AI & Analytics in Clinical Decision Making.
+
+The curriculum also includes medical software development, biosignals/imaging, systems medicine and simulation, complex systems, health data science and molecular biology.
+
+The key risk is Gate 1: formal entry expects substantial CS credits, though up to 30 ECTS supplementary exams may be assigned.
+
+### Ireland - Galway Health Data Science
+
+Galway is intentionally broad in admissions: engineering, computing, statistics, mathematics, healthcare and even business backgrounds are welcomed if the applicant has introductory statistics.
+
+The programme has a 30-ECTS health-data research project and integrates statistical computing, ML, bioinformatics and health research.
+
+It is strategically weaker than engineering-labelled programmes on profile differentiation, and current non-EU tuition is EUR 27,640, so it may later be dominated financially.
+
+### Ireland - Trinity Biomedical Engineering
+
+Trinity's BME MSc is designed primarily for engineers and has a large 40-ECTS research project. The 2027/28 streams include Medical Device Design, Neural Engineering and Tissue Engineering; current modules include Data Science in Neuroimaging.
+
+The engineering positioning is good, but modality breadth is narrower than Bern, TU Graz or several Canadian research degrees, while 2026/27 non-EU tuition is EUR 28,440.
+
+## Wave 6 lesson
+
+The strongest programmes do not necessarily have the word "data" in the title.
+
+A broad **Biomedical Engineering research degree can be a better health-data-systems degree** when it:
+
+- starts from engineering;
+- spans signal / image / informatics / modelling;
+- has strong computational labs;
+- provides thesis research;
+- and lets domain knowledge be learned through collaboration.
+
+This is increasingly important for the applicant because the objective is not to abandon engineering for data science. It is to use engineering as the systems layer for healthcare data.
