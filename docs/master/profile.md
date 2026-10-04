@@ -55,9 +55,29 @@ Become a **Research Engineer** who can:
 Understand -> Measure -> Model -> Build -> Validate -> Translate
 ```
 
-Current preferred application: BCI / neurotechnology.
+Preferred operating model: **systems-oriented, computational / dry-lab Research Engineering for biological systems**.
 
-Important constraint: do not lock the degree so narrowly into BCI / neuroscience that genomics experience becomes irrelevant.
+Current application domains are deliberately plural:
+
+- neurotechnology / physiological sensing;
+- computational genetics / genomics;
+- bioinformatics / biomedical data systems;
+- adjacent quantitative biological systems where engineering, modelling and software are central.
+
+BCI is an attractive application domain, not the career identity.
+
+The common methods layer matters more than the biological domain:
+
+```text
+Measure / acquire evidence
+-> represent data faithfully
+-> model / infer
+-> build software or systems
+-> validate
+-> translate
+```
+
+Prefer programmes where the applicant can remain engineering- and computation-first. Wet-lab-heavy molecular programmes are lower priority unless they provide a clean computational track and do not require formal life-science prerequisites that the transcript lacks.
 
 ## Finance
 
