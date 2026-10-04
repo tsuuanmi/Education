@@ -189,3 +189,67 @@ The next passes should focus on coverage rather than ranking:
 6. methods-first CS/data/scientific-computing degrees with credible biological research ecosystems.
 
 Only after those waves should the new opportunity universe be frozen and Gate 1 restarted.
+
+
+## Wave 2 - funded computing degrees and quantitative-biology coverage
+
+Wave 2 deliberately searched beyond programmes with "bioinformatics" in the degree title.
+
+### Canada: research funding + broad degree identity
+
+**Simon Fraser University - MSc Computing Science**
+
+This is an important archetype for the new search. The degree remains Computing Science, while the research ecosystem explicitly includes computational biology and medical/health informatics: genome sequencing, gene regulation, epigenomics, single-cell assays, medical images and medical records. Every Master's student is currently guaranteed at least CAD 24,000/year for two years.
+
+The main issue is Gate 1, not strategic fit: non-CS applicants need demonstrable third-year competence in operating systems, data structures/algorithms and databases.
+
+**McGill - MSc Computer Science (Thesis), Bioinformatics**
+
+Another breadth-preserving route. The degree remains Computer Science and the Bioinformatics thesis option focuses on experimental design, data-analysis tools, modelling, biological databases, algorithms, AI and statistics. Current admissions require at least an undergraduate-minor-equivalent CS background and university minimum 3.2/4.0.
+
+Funding exists, but the exact thesis-MSc package still needs a dedicated school/supervisor audit.
+
+**University of Guelph - MSc Bioinformatics**
+
+The thesis MSc explicitly accepts life, physical, statistical, mathematical and computational-science backgrounds. An advisor must agree before application; admission is not issued without one. Thesis students receive a funding package with the offer, although the amount varies by the supervisor's home department.
+
+This is different from a scholarship lottery: funding is part of the supervisor-backed thesis-offer structure.
+
+### Continental Europe: quantitative/systems routes
+
+**University of Trento - Quantitative and Computational Biology**
+
+The current curriculum is unusually aligned with the target operating model: AI for data analysis, scientific programming, biostatistics, genomic data science, multi-omics, network analysis, knowledge graphs, modelling/simulation, reproducible computational workflows, data-quality/model-assumption evaluation, internship and thesis.
+
+It remains a discovery candidate even though the later Gate-1 audit may find biology/chemistry-credit problems.
+
+**Paris-Saclay - GENIOMHE-AI**
+
+The M1/M2 path combines genomics with algorithms, programming, data science, AI, statistics, databases and systems modelling. Career outcomes explicitly include data scientist, ML engineer and research engineer, so the methods layer is not genomics-only.
+
+**University of Milan - Quantitative Biology**
+
+Useful coverage candidate, but the programme is more biophysical/wet-biological than most Phase-2 targets: compulsory cell biophysics, advanced molecular biology and structural biology sit beside mathematical modelling, Python and AI. This is exactly why discovery and gating must remain separate.
+
+**Freie Universitat Berlin - Bioinformatics**
+
+Worth staging because the programme is methods-heavy and German public-university economics can be attractive, but its hard formal CS-credit requirements may be difficult for a Mechatronics transcript. No conditional admission is offered for missing requirements.
+
+## Discovery lesson from Wave 2
+
+The search should explicitly include the pattern:
+
+```text
+broad technical degree
++ biological research lab
++ thesis
++ structural funding
+```
+
+not only:
+
+```text
+degree title contains "bioinformatics" or "biomedical"
+```
+
+SFU and McGill are especially useful examples of why this matters for career breadth.
