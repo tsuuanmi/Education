@@ -200,6 +200,7 @@ Search globally where the research model is strong.
 - [~] Run Profile Differentiation Gate
   - [x] Profile Amplification Frontier deep audit (19 Very-high routes)
 - [~] Cross-domain PI/lab audit
+  - [x] First PI/lab frontier pass across P0 programmes
 - [ ] Final application portfolio
 
 ## Status labels
@@ -238,3 +239,10 @@ The current P0 research frontier is UNIST BME, HKUST Bioengineering/Biological I
 See [Programme Fit Specification](program-fit-spec.md).
 
 Core rule: **Engineering as the foundation; biological systems as the application domain; computation and modelling as the transferable core; research as the mode of learning.**
+
+
+### PI / lab frontier
+
+See [Cross-Domain PI / Lab Frontier](pi-frontier.md) and `data/master/pi-frontier.csv`.
+
+The PI gate now prioritizes transferable methods, research ownership and engineering-rooted biological-systems work rather than simple domain similarity.
