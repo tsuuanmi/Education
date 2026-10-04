@@ -1,206 +1,143 @@
 # Gate 1 - Formal Eligibility Audit
 
-This file records the first formal eligibility pass. It is intentionally stricter than fit-based screening.
+Gate 1 asks only:
 
-## Status semantics
+> **Can the applicant plausibly satisfy the published formal entry requirements?**
 
-- **Likely**: the published formal requirements appear compatible with the current transcript/profile.
-- **Conditional-likely**: likely compatible, but at least one formal equivalence (credits, honours classification, English evidence, or field classification) needs confirmation.
-- **Conditional-high-risk**: a published requirement may force a preparatory programme or make direct admission uncertain.
-- **Unlikely**: a clear published prerequisite appears absent from the current transcript.
-- **Unknown**: official requirements are not detailed enough yet.
+It does not predict admission, supervisor interest, scholarship success, or net cost. Those belong to later gates.
 
-Work experience, publications, an EEG thesis, and genomics research can strengthen selection, but they are **not** treated as substitutes for hard credit prerequisites unless the university explicitly says they can be.
+## Canonical applicant evidence
 
-## Applicant evidence used
+- BEng / Honors Program in Mechatronics Engineering, UET-VNU
+- GPA 3.47 / 4.0; classification: Distinction
+- mathematics, linear algebra, probability/statistics, computational methods
+- automatic control
+- electronics/electrotechnics
+- measurement and sensors
+- programming, microprocessors/microcontrollers and AI
+- A+ EEG emotion-classification thesis
+- neurotechnology and genomics R&D, public genomics outputs and open-source scientific software
 
-The canonical profile currently establishes:
-
-- BEng Honors in Mechatronics Engineering, UET-VNU;
-- GPA 3.47/4.0, Distinction;
-- mathematics, linear algebra, probability/statistics, computational methods;
-- automatic control;
-- electronics/electrotechnics;
-- measurement and sensors;
-- programming, microprocessors and AI;
-- EEG emotion-classification thesis (A+);
-- relevant neurotechnology and genomics R&D.
-
-Known transcript gaps:
+Known transcript risks:
 
 - no clearly titled Signals & Systems / DSP course;
-- no clear formal cell/molecular biology;
-- no clear formal chemistry.
+- no obvious formal cell/molecular biology coursework;
+- no obvious chemistry coursework.
 
-## First-pass conclusions
+Professional work and research strengthen selection, but are not treated as substitutes for hard curricular-credit requirements unless the programme explicitly allows that.
 
-### Cleaner Gate-1 paths
+## Final status semantics
 
-The first batch suggests that the following are structurally compatible with the academic background:
+- **Likely**: no published hard prerequisite mismatch is visible. Routine international-equivalence, test, document, interview, supervisor or competitive-selection steps do not keep a programme conditional.
+- **Conditional-high-risk**: a specific formal degree/credit/grade/direct-entry requirement could materially block admission or force substantial bridging.
+- **Unlikely**: the current profile appears to miss a published hard prerequisite.
+- **Not-actionable**: not a concrete/open target for the intended cycle; exclude from scoring until a real programme route exists.
+- **Superseded**: duplicate/legacy tracking row; exclude from scoring.
 
-- Aalto Health Technology Engineering;
-- KTH Systems, Control and Robotics;
-- Freiburg Microsystems Engineering;
-- Politecnico di Milano Biomedical Engineering;
-- NUS BME MEng by Research;
-- NTU Smart Medicine and Health Informatics.
-
-These are not admissions predictions; they simply lack an obvious hard prerequisite mismatch in the current evidence.
-
-### Programmes requiring course-by-course proof
-
-- Chalmers BME: hard 6-credit Signals & Systems / Signal Processing requirement.
-- KTH Medical Engineering: hard 15-ECTS Physics component within its 60-ECTS technical requirement.
-- Bologna BME: Italian subject-group credit mapping.
-- NTU EEE MEng: honours-equivalence confirmation.
-- TU Delft SNS: central international admission requirements still need a full audit.
-
-### Highest Gate-1 risks in this batch
-
-- Twente BME/PSS: direct-entry degree requirement is framed around BME/Biomedical Technology; pre-Master may be required.
-- KU Leuven BME: direct admission for a foreign Mechatronics degree is uncertain and a preparatory programme may be imposed.
-- RWTH standalone Biomedical Engineering: current regulations appear to require substantial formal chemistry or biology credits that are not visible in the transcript.
-
-## Important correction
-
-A missing course literally named **Signal Processing** should not be treated as a universal problem.
-
-For example:
-
-- Aalto lists signal processing as a recommended technical skill, while Mechatronics itself is explicitly an accepted degree.
-- KTH Systems, Control and Robotics 2027 requires mathematics, programming/computer science, differential equations and control technology; the current published requirement does **not** list a standalone Signals & Systems course.
-- Chalmers is different: it explicitly requires at least 6 credits of Signals & Systems Theory or Signal Processing including linear systems and transforms.
-
-Therefore course-title risk must be audited **programme by programme**, not generalized.
-
-## Next batch
-
-Continue Gate 1 with:
-
-1. Oulu, Tampere, ETH, EPFL, DTU;
-2. RWTH EE Biomedical Systems Engineering, KIT, Heidelberg, Lübeck;
-3. KAIST, SNU, POSTECH;
-4. HKUST/CUHK/HKU;
-5. Taiwan NTU BME/BEBI, NTHU, NYCU;
-6. Erasmus Mundus programmes;
-7. Australia research Masters.
-
-
-## Batch 2 - Finland / Switzerland / DTU
-
-### Oulu Biomedical Engineering
-
-**Status: Likely**
-
-Official 2027 programme criteria accept Bachelor's degrees in biomedical engineering, biophysics, physics, computer engineering, computer science, information technology, electrical engineering, control engineering, mechanical engineering, or other related fields.
-
-This makes Mechatronics structurally compatible. No hard prior biology or chemistry requirement is stated.
-
-### Tampere Biomedical Sciences and Engineering
-
-**Biomedical Micro- and Nanodevices: Likely**
-
-Mechatronics is explicitly named as an eligible related field. Mathematics and physics are required. Prior biology/BME is beneficial but not mandatory.
-
-**Biomedical Informatics: Conditional-likely**
-
-Engineering/technology backgrounds closely related to the field are accepted, but Mechatronics is not named directly. Programming, mathematics, physics, EEG-data work and genomics R&D strengthen the case.
-
-**Medical Physics and Biomedical Instrumentation: Conditional-likely**
-
-This specialization is now added to the opportunity universe because it is closely aligned with medical measurement, imaging, instrumentation and algorithm development. The main remaining question is whether the physics depth in the transcript is considered sufficient.
-
-### ETH Zurich Biomedical Engineering
-
-**Status: Conditional-high-risk**
-
-ETH BME accepts engineering/physics/mathematics backgrounds, but non-EU/EFTA Bachelor's holders must submit GRE.
-
-Current expected GRE scores:
-- Quantitative 165 / 90th percentile;
-- Verbal 155 / 70th percentile;
-- Analytical Writing 3.5 / 50th percentile.
-
-Mechatronics is not explicitly named on the page, so equivalence to a qualifying engineering discipline still matters. This remains a moonshot rather than a clean eligibility path.
-
-### EPFL Life Sciences Engineering
-
-**Status: Conditional-high-risk**
-
-EPFL explicitly requires both:
-- engineering skills in signal processing, systems, electronics, data science and machine learning;
-- basic life-science knowledge in cell and molecular biology comparable to BIO-105/BIO-109.
-
-The engineering half is strong for this profile. The formal cell/molecular biology requirement is the problem. Additional credits may be required, but the university does not say that professional genomics experience substitutes for those prerequisites.
-
-### DTU Biomedical Engineering
-
-**Status: Unlikely**
-
-This is now a clearer hard reject unless the transcript contains substantially more biomedical/life-science coursework than currently recorded.
-
-For international applicants, DTU requires at least 65 ECTS distributed across:
-- 15 ECTS mathematics;
-- 10 ECTS physics;
-- 5 ECTS chemistry;
-- 10 ECTS human physiology/anatomy/cell biology;
-- 5 ECTS programming;
-- 5 ECTS statistics;
-- 15 ECTS biomedical engineering.
-
-The profile likely satisfies math/programming/statistics and some physics, but not the chemistry, human-biology and 15-ECTS BME blocks.
-
-## Updated pattern
-
-The Gate-1 audit is producing three useful categories:
+Decision shorthand:
 
 ```text
-Engineering-first programmes
-  -> often clean or conditionally clean
-  -> Aalto, Oulu, Tampere Micro/Nano, KTH Systems, Freiburg
-
-Formal BME-credit programmes
-  -> higher risk despite strong career fit
-  -> Chalmers, Twente, KU Leuven
-
-Life-science-credit programmes
-  -> highest risk
-  -> EPFL LSE, DTU BME, RWTH standalone BME
+Likely                 -> proceed to Gate 2
+Conditional-high-risk  -> High-risk; resolve only if ROI justifies it
+Unlikely               -> Drop
+Not-actionable         -> Drop for this cycle
+Superseded             -> Ignore
 ```
 
-This reinforces the degree-title-agnostic search strategy: a methods-first engineering Master's can be both a better intellectual fit and a cleaner formal-admission route than a programme literally named Biomedical Engineering.
+## Final full-universe result
 
+All **76 tracked opportunity records** now have a decisive Gate-1 state.
 
-## Full-universe Gate 1 status
+| Gate 1 status | Count |
+| --- | ---: |
+| Likely | 47 |
+| Conditional-high-risk | 20 |
+| Unlikely | 3 |
+| Not-actionable | 2 |
+| Superseded | 4 |
 
-The eligibility table now covers **76 tracked opportunities**, including explicit duplicate/superseded and non-actionable records.
+There are now **zero** records in `Unknown`, `Conditional-likely`, or generic `Conditional`.
 
-Current status counts:
+## Resolution pass - 2026-10-04
 
-- **Likely**: 28
-- **Conditional-likely**: 23
-- **Conditional-high-risk**: 13
-- **Superseded**: 4
-- **Unlikely**: 3
-- **Conditional**: 2
-- **Unknown**: 2
-- **Not-actionable**: 1
+The final pass deliberately separates formal eligibility from application friction.
 
-### Interpretation
+### Moved to Likely
 
-- **Likely** means no published hard prerequisite mismatch is visible from the current transcript/profile.
-- **Conditional-likely** means the route is plausible but needs a formal equivalence check (credits, honours, language, supervisor, or central-admissions mapping).
-- **Conditional-high-risk** means a real published requirement could block direct admission or force substantial bridging.
-- **Unlikely** means a hard prerequisite appears absent from the transcript.
-- **Not-actionable** means the programme is not open for the target 2027 entry cycle.
-- **Superseded** marks duplicate/legacy tracking rows and excludes them from later scoring.
-- **Unknown** is deliberately retained when official programme-level admission requirements are still insufficiently verified.
+The remaining issue for these cases is a test, document, supervisor match, normal foreign-degree equivalence, or competitive selection rather than a demonstrated curriculum mismatch:
 
-### Gate 1 policy from this point
+- Bologna Biomedical Engineering
+- NTU Singapore EEE MEng by Research
+- Tampere Biomedical Informatics
+- Tampere Medical Physics and Biomedical Instrumentation
+- TU Delft BME - Medical Devices
+- Heidelberg Biomedical Engineering
+- TUM Biomedical Engineering and Medical Physics
+- Luebeck Medical Engineering Science
+- BME Paris - M1
+- SNU Interdisciplinary Program in Bioengineering
+- University of Tokyo G30 Bioengineering
+- Tohoku Biomedical Engineering
+- NTHU Biomedical Engineering and Environmental Sciences
+- NTU Singapore CCEB MEng by Research
+- NTU Taiwan Biomedical Electronics and Bioinformatics
+- NTU Taiwan Biomedical Engineering
+- NYCU Intelligent Bioelectrical Engineering
+- EMMBIOME
+- UNSW MPhil Engineering - Biomedical Engineering
 
-The next pass should not expand the universe unless a genuinely new high-value opportunity appears. Research should focus on converting:
-- Unknown -> a defensible status;
-- Conditional-likely -> confirmed likely or high-risk;
-- Conditional-high-risk -> apply/drop decision.
+Examples:
 
-Only after that should Gate 2 financial modelling begin.
+- **TUM**: its written aptitude assessment is a selection mechanism, not by itself an eligibility mismatch.
+- **Tohoku**: advisor permission, TOEFL/TOEIC and entrance examination are execution/selection gates.
+- **University of Tokyo G30**: mandatory GRE + TOEFL/IELTS are application requirements, not evidence that the engineering Bachelor is unsuitable.
+- **BME Paris**: a 4-year foreign science/engineering Bachelor applies to M1; engineering is explicitly welcomed.
+
+### High-risk after resolution
+
+These retain a real formal blocker risk:
+
+- **Chalmers BME** - hard >=6-credit Signals & Systems / Signal Processing requirement.
+- **KTH Medical Engineering** - hard 15-ECTS Physics requirement.
+- **TU Eindhoven BME** - direct-entry subject equivalence/bridging remains insufficiently established for a Vietnamese Mechatronics degree.
+- **ULB BME** - jury may impose substantial bridging; local BME foundations contain life-science content absent from the transcript.
+- **RWTH EEITCE - Biomedical Systems Engineering** - hard baskets include 34 CP theoretical EE, systems theory and theoretical specialization.
+- **Europhotonics** - normally expects at least 12 ECTS physics and 12 ECTS mathematics.
+- **Melbourne MPhil Engineering and IT** - exact grade conversion and substantial-research-component threshold are material; current FEIT guidance puts the profile very close to the indicative academic boundary.
+
+These are not automatic rejects. They are evidence-required high-risk cases.
+
+### Removed from active scoring
+
+- **University of Osaka Engineering English Master's** is **Not-actionable** because the row represents a generic English admissions route rather than a concrete 2027 division/lab/programme. Re-add only as a specific opportunity with its own eligibility rules.
+
+## Strategic conclusion
+
+```text
+Engineering-first / methods-first
+  -> usually cleaner formal eligibility
+  -> control, sensing, signals, instrumentation, EE/CS research routes
+
+BME with hard curricular baskets
+  -> profile can be intellectually strong but formally fragile
+  -> explicit signal/physics/life-science/EE credit requirements dominate
+
+Research degrees
+  -> often clean at Gate 1
+  -> supervisor fit, research evidence and funding become the real later gates
+```
+
+The search should remain **degree-title agnostic**. A systems/control/EE/instrumentation route can be a better path to neurotechnology/biomedical research than a degree literally titled Biomedical Engineering.
+
+## Gate 1 is closed
+
+Do not expand the opportunity universe by default.
+
+The next canonical stage is **Gate 2 - net cost and funding feasibility**, starting with the `Likely` set and prioritising:
+
+1. fully funded / stipend-bearing research routes;
+2. Erasmus Mundus and named external scholarships;
+3. low-tuition programmes with realistic living-cost support;
+4. only then partially funded high-cost coursework routes.
+
+High-risk Gate-1 programmes should enter Gate 2 only when their funding upside is strong enough to justify resolving the formal blocker.
