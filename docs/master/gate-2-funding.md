@@ -1,124 +1,93 @@
 # Gate 2 - Net Cost and Funding Feasibility
 
-Gate 2 starts from the 47 Gate-1 Likely programmes and asks:
+## Status: reopened after Discovery Phase 2.0
 
-> Can the applicant plausibly complete the degree without an unacceptable financial burden?
+The earlier Gate-2 pass covered the pre-expansion universe and is now a **historical baseline**, not the current funding ranking.
 
-Finance is a hard constraint. Priority: full tuition + living stipend; then full tuition with manageable living exposure; then low/no tuition with realistic support; partial funding only when residual cost is manageable.
+The canonical opportunity universe now contains:
 
-## Semantics
+- **115 Gate-1 Likely** routes;
+- 32 Conditional-high-risk;
+- 12 Unlikely;
+- 1 Not-actionable;
+- 5 Superseded.
 
-- **A - Fully funded / near-zero residual**: realistic programme-linked route covers tuition and meaningful living support.
-- **B - Strongly fundable**: credible full/near-full route exists but is competitive, cycle-dependent, renewable, or leaves a manageable residual.
-- **C - Low-cost fallback**: intrinsically low/no tuition or strong need-based aid, but living remains partly self-funded.
-- **D - Scholarship-dependent high-cost**: unattractive unless a selective scholarship is won.
-- **Deferred**: not a 2027 funding route.
+Expanded Gate 2 must therefore be rerun from the 115 Likely routes.
 
-## A - Financial frontier
+Gate 2 asks:
 
-Prioritise these first because funding and the Research Engineer goal align.
+> **Can the applicant plausibly complete the degree without an unacceptable personal financial burden?**
 
-| Opportunity | Best route | Current package / caveat |
-| --- | --- | --- |
-| NUS BME MEng Research | NUS Research Scholarship | Full tuition + S$2,900/month; competitive |
-| NUS ECE MEng Research | NUS Research Scholarship | Full tuition + S$2,900/month; supervisor fit |
-| NTU EEE MEng Research | NTU Research Scholarship | Full tuition + S$2,900/month; honours equivalence/GAP duties |
-| NTU CCEB MEng Research | NTU Research Scholarship | Full tuition + S$2,900/month; less neuro-focused |
-| KAIST Bio & Brain | KAIST Scholarship / KGPS | Full tuition + stipend; KGPS KRW 1,000,000/month |
-| POSTECH EE | TA/RA | 2026 regular package KRW 1.85m/month total; lab-dependent |
-| POSTECH I-Bio | TA/RA | Same graduate-support structure; lab-dependent |
-| HKUST Bioengineering MPhil | PGS | HKD 19,135/month in 2026/27; tuition not separately waived |
-| HKUST ECE MPhil | PGS | Same PGS structure |
-| HKU ECE MPhil | PGS | HKD 19,135/month from Sep 2026; tuition not separately waived |
-| CUHK BME MPhil | PGS | HKD 19,100/month in 2025/26; verify 2027 net residual |
-| EMJM Imaging | Erasmus Mundus | Participation costs + EUR 1,400/month up to 24 months |
-| MAIA | Erasmus Mundus | Participation costs + EUR 1,400/month up to 24 months |
-| EMMaH | Erasmus Mundus | Full-scholarship route + EUR 1,400/month when awarded |
-| IPCVAI | Erasmus Mundus | Full EMJM scholarship route |
+Finance remains a hard constraint.
 
-Singapore/Hong Kong research degrees are especially attractive because their financial structure and the Research Engineer objective reinforce each other. Erasmus Mundus has excellent economics but should later be differentiated by intellectual/research fit.
+## Funding priority
 
-## B - Strongly fundable
+1. full tuition + living stipend;
+2. full tuition with manageable residual living exposure;
+3. low/no tuition + realistic living support;
+4. partial scholarship only when residual cost is clearly manageable.
 
-- **SNU Bioengineering** - GSFS / SNU Global / GKS; full-tuition and stipend routes exist but package duration varies.
-- **NTU Taiwan programmes** - Taiwan Scholarship gives up to NTD 40,000/semester tuition subsidy + NTD 20,000/month; university awards add optionality.
-- **NTHU BME/BMES** - Taiwan Scholarship is the stronger route; NTHU award itself is tuition waiver + NTD 5,000/month.
-- **NYCU Intelligent Bioelectrical Engineering** - Taiwan Scholarship or NYCU tuition/stipend award; university award depends on budget and match funding.
-- **TU Delft SNS / BME Medical Devices** - Microelectronics scholarships can cover full tuition plus living contribution for two years; 2027 named awards still need refresh.
-- **Polimi BME** - merit, DSU and IYT create multiple independent funding paths; some merit awards include full tuition + up to EUR 10,000/year.
-- **UniGe Bioengineering** - IYT is a strong Vietnam-specific route; 2027 terms pending.
-- **BME Paris** - Eiffel currently provides EUR 1,181/month plus travel/services; institution nomination is required.
-- **University of Tokyo Bioengineering** - MEXT university recommendation / priority placement can cover tuition + JPY 144,000/month + travel; nomination/quota risk.
-- **MICROSCOM** - new EMJM; verify exact 2027 scholarship mechanics when the call publishes.
+A return-to-Vietnam obligation is recorded but is **not automatically negative**. Australia Awards and similar obligations can be compatible with the career plan when the return period supports R&D, publications, scientific software and international collaboration.
 
-## C - Low-cost fallback
+## 2027 and 2028
 
-- **Luebeck Medical Engineering Science** - no tuition; semester contribution; official living estimate about EUR 900/month.
-- **Freiburg Microsystems** - about EUR 1,690/semester for non-EU; living remains self-funded.
-- **Heidelberg BME** - about EUR 1,500/semester plus fees; living estimate at least EUR 992/month.
-- **Bologna BME** - ER.GO can combine fee exemption and need-based support; foreign-income documentation is the operational risk.
-- **Freiburg Neuroscience** - about EUR 1,500/semester; living remains the main residual.
+Both start years are valid.
 
-Italy deserves special attention: DSU/ER.GO are need-based systems, not only elite merit awards, so they may be more robust than headline merit scholarships if family-income documentation qualifies.
+Do not force a weaker 2027 application when 2028 materially improves:
 
-## D - Scholarship-dependent / high residual
+- funding;
+- programme fit;
+- supervisor fit;
+- test preparation;
+- application quality.
 
-Do not prioritise these until A/B applications are covered:
+Australia Awards 2028 is a first-class funding route.
 
-- Aalto Health Technology - tuition waiver possible, living normally self-funded.
-- KTH Systems, Control and Robotics - full tuition scholarship can still leave living costs.
-- Oulu BME - partial-waiver structure.
-- Tampere Biomedical Informatics, Micro/Nano, and Medical Physics/Biomedical Instrumentation - partial tuition funding.
-- TUM BEMP - 2027 tuition/waiver details need audit; Munich living cost is material.
-- FAU Medical Robotics - EUR 4,000/semester tuition from summer 2027 materially weakens the route without a waiver.
+## Expanded Gate-2 semantics
 
-## Deferred 2028
+- **A - Structurally funded / near-zero residual**
+  - funding is tied closely to research admission or broadly available to admitted students.
 
-Australia Awards is financially excellent but the 2027 intake is closed. Relevant 2028 routes include UNSW MPhil BME, Monash Engineering Science Research, and UNSW Engineering Science BME.
+- **B - Strongly fundable**
+  - credible full/near-full scholarship exists but requires a separate competition, nomination or renewal.
 
-Australia Awards covers tuition, travel, establishment, living contribution, OSHC and related support, but imposes a minimum two-year return-to-Vietnam obligation after study. Treat that as a career constraint, not merely a funding benefit.
+- **C - Financially resilient**
+  - low tuition or robust need-based funding keeps downside manageable.
 
-## Working 2027 shortlist
+- **D - High-cost / scholarship dependent**
+  - unattractive without a selective award.
 
-**Tier 1 - research + strong funding**
+- **Deferred / cycle-dependent**
+  - financially attractive route exists only in a later cycle such as 2028.
 
-NUS ECE/BME MEng Research; NTU EEE MEng Research; HKUST ECE/Bioengineering MPhil; HKU ECE MPhil; CUHK BME MPhil; KAIST Bio & Brain; POSTECH EE/I-Bio.
+## High-priority funding architectures already known
 
-**Tier 2 - full-scholarship competition**
+The previous audit established several useful funding patterns that remain valid and should be reused in the expanded pass:
 
-EMJM Imaging; MAIA; EMMaH; IPCVAI; SNU Bioengineering; University of Tokyo Bioengineering + MEXT; TU Delft SNS/BME + departmental scholarship.
+- Hong Kong research postgraduate studentships;
+- NUS / NTU Singapore research scholarships;
+- KAIST scholarship / KGPS;
+- POSTECH TA/RA support;
+- Erasmus Mundus scholarships;
+- Taiwan Scholarship + university awards;
+- Italy need-based / merit routes;
+- MEXT;
+- Australia Awards;
+- Canadian funded thesis Master's packages;
+- KAUST Fellowship;
+- Weizmann MSc fellowship;
+- selected US research MS assistantships.
 
-**Tier 3 - financially resilient alternatives**
+But **no working shortlist from the old Gate-2 pass should be treated as current** until all 115 Likely routes have been audited under the new profile.
 
-NTU Taiwan BEBI/Smart Medicine/BME; NYCU Intelligent Bioelectrical Engineering; NTHU BME; Polimi BME; Bologna BME; UniGe Bioengineering; BME Paris; Luebeck/Freiburg/Heidelberg.
+## Next pass
 
-**Tier 4 - only with exceptional scholarship or fit**
+Expanded Gate 2 should proceed by funding architecture, not by prestige:
 
-Aalto; KTH Systems; Oulu; Tampere tracks; TUM BEMP; FAU Medical Robotics.
+1. structurally funded research Master's / MPhil / MASc;
+2. Australia Awards 2028-compatible programmes;
+3. named full scholarships;
+4. low-tuition public systems;
+5. expensive coursework programmes last.
 
-This is not yet the final programme ranking. Gate 3 should combine formal eligibility + expected net cost + funding robustness + research/career fit + timing + scholarship obligations.
-
-## Immediate timing
-
-As of 2026-10-04:
-
-- **HKU ECE MPhil**: 2027/28 main RPG round closes 1 Dec 2026.
-- **NTU Taiwan Smart Medicine**: round 1 is open 29 Sep-5 Nov 2026; round 2 is 1 Dec 2026-19 Jan 2027.
-- **IPCVAI**: 2027-2029 call runs 1 Nov 2026-2 Feb 2027.
-- **FAU Medical Robotics**: summer-2027 application is open through 15 Jan 2027, but finance is weaker.
-- **Eiffel**: institution nomination means BME Paris must be engaged early.
-- **TU Delft Microelectronics scholarships**: current department guidance asks for a complete MSc application before 1 Dec for scholarship consideration.
-
-The detailed deadline-first audit is now in `docs/master/gate-2-priority-audit.md`.
-
-The main conclusion is stronger than the first pass: prioritise structurally funded research degrees (Hong Kong/Korea and scholarship-funded Singapore research) before high-cost coursework programmes with low-probability merit awards.
-
-
-## Australia computational-genomics branch
-
-The 2028 Australia branch now includes two additional Likely programmes:
-
-- UQ Master of Bioinformatics (Research Extensive);
-- Monash Master of Bioinformatics - Research Stream.
-
-Both are financially unattractive at sticker price but become high-value if Australia Awards 2028 retains the current full-funding structure. Their importance is strategic: they preserve a dry-lab, systems-and-software Research Engineer identity while moving the biological domain from neural sensing to genetics/genomics.
+The later Profile Differentiation Gate will then ask whether the financially viable programme actually amplifies the applicant's cross-layer profile.
