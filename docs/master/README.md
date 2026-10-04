@@ -197,6 +197,7 @@ Search globally where the research model is strong.
 - [x] Re-run Gate 1 on expanded universe
 - [x] Promote the expanded universe after Gate 1 closes
 - [~] Re-run Gate 2 funding feasibility
+- [~] Run Profile Differentiation Gate
 - [ ] Cross-domain PI/lab audit
 - [ ] Final application portfolio
 
