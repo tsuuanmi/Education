@@ -46,11 +46,11 @@ Superseded             -> Ignore
 
 ## Final full-universe result
 
-All **76 tracked opportunity records** now have a decisive Gate-1 state.
+All **78 tracked opportunity records** now have a decisive Gate-1 state.
 
 | Gate 1 status | Count |
 | --- | ---: |
-| Likely | 47 |
+| Likely | 49 |
 | Conditional-high-risk | 20 |
 | Unlikely | 3 |
 | Not-actionable | 2 |
@@ -141,3 +141,13 @@ The next canonical stage is **Gate 2 - net cost and funding feasibility**, start
 4. only then partially funded high-cost coursework routes.
 
 High-risk Gate-1 programmes should enter Gate 2 only when their funding upside is strong enough to justify resolving the formal blocker.
+
+
+## Scope expansion - 2026-10-04
+
+The universe was deliberately reopened for two Australia computational-genomics programmes after the applicant clarified that the target is not BCI-specific. Both new records are Gate-1 Likely:
+
+- UQ Master of Bioinformatics (Research Extensive);
+- Monash Master of Bioinformatics - Research Stream.
+
+This is a scope correction, not a return to broad programme expansion.
