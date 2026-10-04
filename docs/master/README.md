@@ -201,6 +201,7 @@ Search globally where the research model is strong.
   - [x] Profile Amplification Frontier deep audit (19 Very-high routes)
 - [~] Cross-domain PI/lab audit
   - [x] First PI/lab frontier pass across P0 programmes
+  - [x] Active-geography PI deep audit (Singapore / HK / Toronto / KAUST)
 - [ ] Final application portfolio
 
 ## Status labels
