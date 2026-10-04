@@ -142,3 +142,20 @@ The first-pass table is intentionally architecture-driven. The next Profile Diff
 - a research programme's value depends almost entirely on one lab.
 
 This will eventually feed the PI/research-environment gate without returning to a BCI-only supervisor search.
+
+
+## Very-high frontier deep audit
+
+The broad Very-high band has now been split into a strategic frontier that distinguishes **architecture-native** programmes from **methods-specialized** programmes and incorporates funding/timing constraints.
+
+See `docs/master/amplification-frontier.md` and `data/master/amplification-frontier.csv`.
+
+Current P0 cross-domain frontier:
+
+- UNIST BME;
+- HKUST MPhil Bioengineering / Biological Information Engineering;
+- University of Toronto BME MASc;
+- KAIST Bio and Brain Engineering;
+- KAUST Bioengineering / Bioinformatics & Machine Learning;
+- NAIST Computational Biology;
+- UNSW MPhil BME as the deferred 2028 research branch.
