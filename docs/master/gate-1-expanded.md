@@ -2,112 +2,148 @@
 
 ## Scope
 
-Expanded Gate 1 evaluates the **87 genuinely new / replacement routes** from Discovery Phase 2.0. The eight exact-duplicate/reframing records keep the Gate-1 identity of their existing canonical degree and are not double-counted here.
+This audit covers the **87 genuinely new / replacement routes** discovered in Phase 2.0.
 
-Gate 1 evaluates formal academic admissibility only:
+Eight staging rows were exact duplicates or research-track reframings of existing canonical degrees and were merged instead of double-counted.
 
-- qualifying Bachelor discipline;
-- GPA / degree equivalence;
-- hard prerequisite-credit baskets;
-- direct entry vs preparatory route;
-- programme-specific academic preparation.
-
-IELTS/TOEFL, GRE, entrance exams, supervisor pre-contact, scholarship competition and general selectivity are execution issues unless a programme makes them part of a hard academic prerequisite.
-
-## Current distribution after targeted deep audit
+## Final new-route result
 
 | Gate-1 status | Count |
 | --- | ---: |
-| Likely | 62 |
-| Conditional-high-risk | 13 |
-| Unlikely | 11 |
-| Not-actionable | 1 |
+| Likely | 66 |
+| Conditional-high-risk | 12 |
+| Unlikely | 9 |
 | **Total** | **87** |
 
-## What the audit changed
+These 87 routes have now been promoted into the canonical universe.
 
-### Programmes upgraded because engineering/interdisciplinary entry is genuinely supported
+## Likely means no hard academic blocker
 
-**CUHK Translational Genomics MPhil -> Likely**
+A route can still require:
 
-The 2027/28 programme page lists the general CUHK Graduate School requirements only; unlike several neighbouring Medicine MPhil programmes, it does **not** impose an additional life-science-degree requirement. Its specialisations explicitly include Genomics, Bioinformatics, Computational Biology and ML/DL.
+- IELTS / TOEFL;
+- GRE;
+- an entrance exam;
+- a research proposal;
+- supervisor contact;
+- competitive selection;
+- additional courses after admission.
 
-This is exactly a case where GeneStory experience strengthens an engineering applicant rather than trying to replace a hard biology prerequisite.
+Those are not Gate-1 blockers unless they create a formal direct-entry mismatch.
 
-**Johns Hopkins BME MSE -> Likely**
+Examples upgraded to Likely during deep audit include:
 
-The programme prefers Engineering/basic-science degrees and expects balanced physics/chemistry/math/biology preparation, but deficiencies can be addressed with additional coursework. The missing biology/chemistry depth is therefore not a formal exclusion.
+- VU/UvA Bioinformatics & Systems Biology;
+- Utrecht Bioinformatics & Biocomplexity;
+- McGill Biological & Biomedical Engineering;
+- McGill Biology / Bioinformatics;
+- Paris-Saclay GENIOMHE-AI;
+- TU Graz Biomedical Engineering;
+- Grenoble BioHealth Engineering;
+- NTHU Bioinformatics & Structural Biology;
+- NYCU Bioinformatics & Systems Biology;
+- Hokkaido Bioengineering & Bioinformatics;
+- Kyushu Systems Life Sciences;
+- Kyutech Biomedical Informatics;
+- HKUST Biomolecular Engineering & Health Informatics;
+- Johns Hopkins BME MSE;
+- USP Bioengineering.
 
-**TU Graz BME -> Likely**
+## Final Conditional-high-risk group
 
-International degrees outside the automatically accepted list go through an admission procedure. The route permits supplementary coursework; no hard biology/CS basket has been identified that makes Mechatronics inadmissible.
+These 12 remain high-risk for a **real formal reason** rather than incomplete generic research.
 
-**SNU Bioinformatics / NTHU Bioinformatics & Structural Biology -> provisional Likely**
+### Formal CS-depth / course-mapping risk
 
-Current international routes are active and no programme-specific undergraduate-major prohibition was found. Both still need final current-guide verification before application.
+1. **Uppsala Bioinformatics - Computer Science Background**
+   - requires 25 credits mathematics/statistics and 30 credits Computer Science.
 
-### Programmes downgraded because hard course requirements are real
+2. **University of Toronto MScAC - Data Science for Biology**
+   - normally expects advanced algorithms, systems/software preparation and advanced biology; exceptional conditional routes exist.
 
-**Utrecht Bioinformatics & Biocomplexity -> Unlikely**
+3. **McGill MSc Computer Science - Bioinformatics**
+   - expects at least an undergraduate-minor-equivalent CS background.
 
-The official international-entry page requires bachelor-level life sciences, in-depth molecular biology, laboratory skills, knowledge of high-throughput experimental methods, bioinformatics, computation and statistics. This is substantially more than biological-data work experience.
+4. **Simon Fraser MSc Computing Science**
+   - exceptional non-CS applicants need third-year competence in operating systems, data structures/algorithms and databases.
 
-**Trento Quantitative & Computational Biology -> Unlikely**
+5. **University of Alberta MSc Computing Science**
+   - expects a degree similar to CS or only bridgeable deficiencies.
 
-Current non-EU curricular requirements include 12 ECTS of biology and 6 ECTS of chemistry, plus math/statistics and physics. The canonical transcript does not evidence the biology/chemistry baskets.
+6. **TU Wien / MedUni Medical Informatics**
+   - published requirements include 15 ECTS math/statistics, 25 ECTS algorithms/data structures/programming and 15 ECTS CS foundations; at most 30 ECTS supplementary exams may be assigned.
 
-**University of Milan Quantitative Biology -> Unlikely**
+### Hybrid biology / quantitative prerequisite risk
 
-Even Information Engineering/CS/math/physics entrants need at least 12 CFU in specified biological subjects.
+7. **ETH Zurich Computational Biology & Bioinformatics**
+   - engineering is accepted, but formal preparation spans programming, data structures/algorithms, statistics, biology and bioinformatics; non-EU/EFTA applicants also need GRE.
 
-**SFU Computing Science -> Unlikely**
+8. **Wageningen Bioinformatics & Systems Biology**
+   - individual assessment considers programming/computation and life-science preparation; a pre-Master may be required.
 
-Exceptional non-CS applicants must demonstrate third-year competence in operating systems, data structures/algorithms and databases. That formal CS depth is not clear in the current Mechatronics transcript.
+9. **ANU Quantitative Biology & Bioinformatics - Advanced**
+   - requires eight cognate courses, with at least four in CS/math/statistics/computational chemistry, plus the programme GPA threshold.
 
-### Existing hard mismatches remain Unlikely
+### Grade / direct-equivalence risk
 
-The first pass already identified several routes where the published requirements are structurally poor fits:
+10. **Tel Aviv University Biomedical Engineering MSc**
+    - requires an Engineering BSc and published average threshold of 80; exact UET/Vietnam grade equivalence remains unresolved.
 
-- DTU Bioinformatics - hard molecular-biology credit;
-- University of Copenhagen Bioinformatics - 2027/28 biology/bioinformatics/ML credit baskets;
-- Freie Universität Berlin Bioinformatics - hard CS + math/stats + biology/chemistry baskets;
-- Saarland Bioinformatics - comparable bioinformatics curriculum expectation;
-- Clemson BDSI - one full year college biology;
-- University of Toronto Data Science for Biology - advanced algorithms/systems + upper-level biology;
-- McGill BBME - engineering entrants need a university-level general life-science course.
+11. **Technion Biomedical Engineering MSc**
+    - Engineering graduates generally need >84 for regular status; 82-84 can enter qualifying status with supplementary study. Exact foreign-grade equivalence remains material.
 
-These outcomes reinforce the **Amplification Principle**: a programme can look ideal by topic yet still be a poor application target if it requires the applicant to reconstruct a conventional CS or biology undergraduate curriculum.
+### English-route / programme-reorganisation risk
 
-## High-risk group that remains worth resolving later
+12. **University of Osaka Information Science / Bioinformatic Engineering route**
+    - the Graduate School reorganises in April 2027 and the desired Bioinformatic Engineering labs must be mapped to an actionable English Master's route.
 
-The remaining Conditional-high-risk programmes are not all weak opportunities. They are cases where one of the following still matters:
+These statuses are intentionally preserved. They are useful information, not unfinished research.
 
-- formal CS-credit mapping;
-- foreign-degree equivalence;
-- biology/informatics balance;
-- direct-entry vs pre-Master;
-- programme-specific department rules not yet fully exposed.
+## Final Unlikely group among the new routes
 
-Examples include ETH CBB, VU BSB, Wageningen BSB, ANU QBB Advanced, McGill Biology/Bioinformatics, McGill CS/Bioinformatics, UAlberta Computing Science, TU Wien Medical Informatics, Tübingen Medical Informatics and Paris-Saclay GENIOMHE-AI.
+Nine new routes have published blockers that the current transcript does not plausibly satisfy.
 
-They should not block promotion of the expanded universe; their uncertainty is itself a valid Gate-1 result.
+Important examples:
 
-## Data-quality correction
+- DTU Bioinformatics - hard molecular-biology credit requirement;
+- University of Copenhagen Bioinformatics - explicit biology + bioinformatics + ML baskets;
+- Saarland Bioinformatics - formal mathematics + CS + bioinformatics + life-science baskets;
+- Freie Universität Berlin Bioinformatics - hard CS + mathematics/statistics + biology/chemistry baskets with no conditional admission;
+- Trento Quantitative & Computational Biology - formal biology/chemistry credit basket;
+- University of Milan Quantitative Biology - at least 12 CFU biological disciplines;
+- Clemson Biomedical Data Science & Informatics - one full year of college biology;
+- Tübingen Medical Informatics - comparable-degree / German-C1 route creates a material language/direct-entry barrier;
+- Kyoto Systems Science - no sufficiently clear English Master's route for the target course.
 
-**Yuan Ze University Biomedical Informatics -> Not-actionable**
+## Key eligibility lesson
 
-The programme announced a suspension of admissions in 2026. Existing students continue, but the route should not be treated as an active Master's opportunity until admissions resume.
+The strongest admission architecture is usually:
 
-## Gate-1 conclusion
+```text
+Engineering is already a valid entry identity
++ the programme supplies biological / medical context
++ quantitative and software methods are core
++ thesis / research integrates with domain experts
+```
 
-Expanded Gate 1 is now sufficiently mature to promote the Discovery 2.0 records into the canonical opportunity universe while preserving the status labels above.
+The weakest architecture for this applicant is usually:
 
-The next operation should be an **atomic canonical promotion**:
+```text
+pure CS requiring a conventional CS undergraduate core
+or
+pure life science requiring large formal biology / chemistry baskets
+```
 
-1. merge the eight duplicate/reframing records into their existing opportunities;
-2. add the 87 new/replacement routes with their Gate-1 status;
-3. mark the old generic Osaka placeholder superseded;
-4. regenerate canonical counts;
-5. only then start Expanded Gate 2 funding/net-cost analysis.
+That distinction will later become part of the Profile Differentiation Gate.
 
-No shortlist should be created at this stage.
+## Data promotion
+
+Expanded Gate 1 is closed.
+
+The canonical files now contain the expanded **165-record** universe. Temporary promotion snapshots were deleted after verifying:
+
+- no duplicate IDs;
+- no missing eligibility rows;
+- no opportunity/eligibility status mismatches.
+
+Next stage: **Expanded Gate 2 - Funding / Net Cost**.
