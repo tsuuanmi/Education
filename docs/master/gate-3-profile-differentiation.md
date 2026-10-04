@@ -159,3 +159,10 @@ Current P0 cross-domain frontier:
 - KAUST Bioengineering / Bioinformatics & Machine Learning;
 - NAIST Computational Biology;
 - UNSW MPhil BME as the deferred 2028 research branch.
+
+
+## Fit guardrail
+
+Gate 3 must use the canonical fit definition in `docs/master/program-fit-spec.md`.
+
+A programme does not need to contain every prior modality. It can score strongly when it develops portable quantitative/computational methods, substantial research ownership, and preserves engineering identity and career option value.
