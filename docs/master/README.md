@@ -195,7 +195,7 @@ Search globally where the research model is strong.
 - [x] Deduplicate and assign stable promotion IDs
 - [~] Re-run Gate 1 on expanded universe
 - [ ] Promote the expanded universe atomically after Gate 1 closes
-- [ ] Re-run Gate 2 funding feasibility
+- [~] Re-run Gate 2 funding feasibility
 - [ ] Cross-domain PI/lab audit
 - [ ] Final application portfolio
 
