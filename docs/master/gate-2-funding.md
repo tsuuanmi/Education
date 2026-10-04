@@ -109,4 +109,6 @@ As of 2026-10-04:
 - **Eiffel**: institution nomination means BME Paris must be engaged early.
 - **TU Delft Microelectronics scholarships**: current department guidance asks for a complete MSc application before 1 Dec for scholarship consideration.
 
-The next pass should be deadline-first inside Tier 1/2, not another broad funding search.
+The detailed deadline-first audit is now in `docs/master/gate-2-priority-audit.md`.
+
+The main conclusion is stronger than the first pass: prioritise structurally funded research degrees (Hong Kong/Korea and scholarship-funded Singapore research) before high-cost coursework programmes with low-probability merit awards.
