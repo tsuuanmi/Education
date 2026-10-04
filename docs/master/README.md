@@ -202,6 +202,7 @@ Search globally where the research model is strong.
 - [~] Cross-domain PI/lab audit
   - [x] First PI/lab frontier pass across P0 programmes
   - [x] Active-geography PI deep audit (Singapore / HK / Toronto / KAUST)
+  - [x] Tier-A PI outreach research briefs
 - [ ] Final application portfolio
 
 ## Status labels
@@ -254,3 +255,8 @@ The PI gate now prioritizes transferable methods, research ownership and enginee
 See [Geography / Environment Preference Policy](geography-environment-preference.md).
 
 Korea and Japan remain academically evaluated in the canonical universe but are **deprioritized from the default application portfolio** based on applicant-specific environment preference. Current deep-audit priority shifts to Singapore, Hong Kong, Canada, Europe and Australia.
+
+
+### Tier-A outreach preparation
+
+See [Tier-A PI Outreach Briefs](tier-a-outreach-briefs.md). The briefs convert PI fit into applicant-specific research questions and define what new methodological depth each lab would add.
