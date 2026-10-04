@@ -226,3 +226,10 @@ The next audit order is:
 6. only then close Gate 2 and move to Profile Differentiation.
 
 Do not create an application shortlist before this pass is complete.
+
+
+## Expanded architecture pass
+
+The current 115-route funding architecture classification is in `docs/master/gate-2-expanded.md`, with row-level data in `data/master/gate2-expanded-staging.csv`.
+
+Do not use the pre-expansion working shortlist as the current portfolio ranking.
