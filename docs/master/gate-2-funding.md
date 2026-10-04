@@ -253,3 +253,58 @@ The next unresolved financial questions with highest information value are now:
 3. exact 2027 UNIST stipend composition;
 4. Japanese non-MEXT routes (Hokkaido, Kyushu, Kyutech);
 5. Italy need/merit routes under the expanded systems-bio scope.
+
+
+## Deep-audit wave 3 - UBC and Italy
+
+### UBC Bioinformatics MSc - correction
+
+The earlier note that UBC Bioinformatics had a simple current guaranteed CAD 32k MSc minimum was too strong.
+
+The current official UBC MSc profile instead shows:
+
+- firm supervisor commitment required before applying;
+- first-year international tuition around CAD 10,081.65;
+- median funding of **CAD 33,453/year before tuition** in the first two years;
+- median **net funding CAD 23,693/year** after tuition/fees for the reported cohort.
+
+This is strong empirical funding and the supervisor requirement makes finance part of admission, but it is not the same as Toronto's published minimum package.
+
+Funding class remains **research-funded conditional**, with high evidence confidence.
+
+### Politecnico di Milano
+
+Current 2026/27 international merit scholarships materially improve the financial case:
+
+- every merit scholarship includes a full tuition-fee waiver;
+- scholarship recipients pay only an administrative fee of about €170;
+- Platinum awards add €10,000 gross;
+- Gold awards add €8,000 gross;
+- other campus tiers provide smaller allowances.
+
+Vietnam is also included in the current Invest Your Talent in Italy country list for relevant programmes, providing a separate possible route.
+
+The important execution detail is timing: Polimi's merit competition requires the early admission window and separate scholarship application.
+
+### Bologna / ER.GO
+
+Bologna remains one of the stronger non-research financial hedges because ER.GO is need-based rather than purely merit-lottery.
+
+For 2026/27, the standard off-site award reaches **€7,171.11** for the lowest standard ISEE band, and **€8,246.78** below the lower €12,500 threshold. Awards scale down with higher family-economic indicators.
+
+For a Vietnamese applicant the main uncertainty is not academic merit; it is whether foreign family-income/assets documents can be prepared, translated/legalised, and mapped cleanly into the required economic assessment.
+
+That documentation should eventually be treated as an application workstream, not a late scholarship detail.
+
+## Gate-2 progress
+
+The remaining weak-or-unknown bucket is now increasingly composed of programmes where the uncertainty is genuinely programme/supervisor-specific rather than missing broad scholarship research.
+
+Before closing Gate 2, the highest-value remaining audits are:
+
+- uOttawa/Carleton BME MASc offer-level funding;
+- exact international package for Japanese systems/information programmes outside MEXT priority routes;
+- Genoa / Milan-Polimi / Paris-Saclay scholarship details under the expanded systems-data framing;
+- high-cost US/UK programmes only where a realistic full-funding route exists.
+
+After those, Gate 2 can be considered mature enough to start **Profile Differentiation Gate** without pretending every residual cost is known to the last dollar.
