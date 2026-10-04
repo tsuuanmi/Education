@@ -21,15 +21,15 @@ Mechatronics / physical systems
 
 The intended identity is a **systems-oriented Research Engineer for biological and healthcare data**.
 
-## First-pass distribution across 115 Gate-1 Likely programmes
+## Current distribution across 103 Gate-1 Likely programmes
 
 | Amplification band | Count |
 | --- | ---: |
-| Very-high | 21 |
-| High | 81 |
+| Very-high | 19 |
+| High | 72 |
 | Medium-high | 3 |
-| Medium | 10 |
-| **Total** | **115** |
+| Medium | 9 |
+| **Total** | **103** |
 
 The canonical working table is `data/master/profile-differentiation.csv`.
 
