@@ -216,7 +216,9 @@ Broad Discovery Phase 2.0 is frozen.
 - 95 staging records discovered.
 - 8 merge/reframe into existing degrees.
 - 87 genuinely new/replacement application routes.
-- 165 application-distinct records in the working expanded-universe draft.
-- Expanded Gate 1 currently has 58 Likely, 22 Conditional-high-risk, and 7 Unlikely among the 87 new/replacement routes.
+- **165 application-distinct canonical records** after promotion.
+- Canonical Gate 1: **115 Likely / 32 Conditional-high-risk / 12 Unlikely / 1 Not-actionable / 5 Superseded**.
+- Expanded Gate 1 is closed.
+- Expanded Gate 2 is now open and starts from the **115 Likely** routes.
 
-Canonical files remain unchanged until the expanded Gate-1 audit closes.
+Do not resume broad search by default.
