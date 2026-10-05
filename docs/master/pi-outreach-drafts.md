@@ -26,7 +26,7 @@ I am preparing an application to the HKUST Bioengineering MPhil programme for 20
 
 My background is in Mechatronics Engineering. I later worked on physiological sensing at Earable Neuroscience, medical imaging at VinBigData, and I now work in genomics R&D while developing open-source scientific software for biological data analysis.
 
-Your group's recent work on multimodal pathology-genomics learning made me especially interested in a research question: how can biomedical models remain reliable when imaging and molecular evidence are heterogeneous, partially missing, and collected under different clinical workflows?
+I was particularly interested in the 2026 HKUST work on robust multimodal precision-oncology models that addresses pathology-genomics heterogeneity, incomplete modalities, generalizable representations, and workflow-aligned validation. It made me especially interested in a research question: how can biomedical models remain reliable when imaging and molecular evidence are heterogeneous, partially missing, and collected under different clinical workflows?
 
 I would be very interested in exploring this as an MPhil direction, with emphasis on robust representation learning, uncertainty, and clinically aligned validation.
 
@@ -49,7 +49,7 @@ I am preparing an application to the NUS Biomedical Engineering MEng by Research
 
 I studied Mechatronics Engineering and have since worked across physiological sensing, medical imaging, and genomics R&D. I currently develop scientific software and analysis pipelines for biological data.
 
-I was particularly drawn to the engineering-to-biology trajectory of your group. A research question I would like to explore is how assay-aware data representations and reproducible computational workflows can improve longitudinal or multimodal single-cell inference under technical noise and batch variation.
+I was particularly drawn to the engineering-to-biology trajectory of your group, and to your current work on comprehensive single-cell transcriptomic profiling of cancer chemoresistance. A research question I would like to explore is how assay-aware data representations and reproducible computational workflows can improve longitudinal or multimodal single-cell inference under technical noise and batch variation.
 
 My current strength is in quantitative engineering, biological-data software, and reproducible analysis rather than single-cell biology itself, and I would be keen to develop that biological depth through research.
 
@@ -95,7 +95,7 @@ I am preparing an application to the University of Toronto Biomedical Engineerin
 
 I studied Mechatronics Engineering and later worked in R&D at Earable Neuroscience on wearable physiological and neural sensing. I have since worked in medical imaging and currently develop scientific software for genomic analysis.
 
-Your group's current work on multimodal physiological sensing made me interested in a research question beyond single-signal prediction: how can physiology-informed sensor fusion quantify uncertainty and remain reliable under real-world wearable measurement constraints?
+I was particularly interested in your group's current work integrating ECG, PPG and ICG through physiology-informed sensor fusion for hemodynamic monitoring. It made me interested in a research question beyond single-signal prediction: how can physiology-informed sensor fusion quantify uncertainty and remain reliable under real-world wearable measurement constraints?
 
 My strongest experience is at the sensing, signal, software, and validation boundary, and I would like to deepen the physiological modelling and multimodal inference layers through research.
 
@@ -118,7 +118,7 @@ I am preparing an application to the NTU Electrical and Electronic Engineering M
 
 My background is in Mechatronics Engineering, and I have worked across physiological sensing, medical imaging R&D, genomics, and scientific software. My medical-imaging experience made me especially interested in problems where acquisition physics and data-driven models need to be designed together.
 
-A research direction I would like to explore is robust and data-efficient computational imaging under acquisition variation, domain shift, and limited annotation, particularly in biomedical settings.
+Your recent medical-imaging work, including digital staining without aligned samples and the group's broader physics-driven computational-imaging programme, made me interested in a research direction: robust and data-efficient computational imaging under acquisition variation, domain shift, and limited annotation, particularly in biomedical settings.
 
 I am interested in developing deeper foundations in inverse problems, optimization, and computational imaging rather than simply applying generic deep-learning models to images.
 
