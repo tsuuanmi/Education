@@ -280,3 +280,17 @@ Reusable application materials:
 - `data/master/contact-tranche-1.csv`
 
 The first-contact objective is information gain about supervision/project fit, not an admission promise.
+
+
+### Contact readiness verification
+
+See [Tranche-1 Contact Readiness](contact-readiness.md) and `data/master/contact-readiness.csv`.
+
+Important distinction: a research-active PI is not automatically a confirmed Master's opening. Current readiness states are:
+
+- Hao Chen - **CONTACT-VERIFY-MPHIL**
+- Cheow Lih Feng - **CONTACT-NOW**
+- Bihan Wen - **CONTACT-VERIFY-MENG**
+- Daniel Franklin - **CONTACT-NOW**
+
+The canonical outreach drafts now reference one current project per PI rather than generic lab descriptions.
